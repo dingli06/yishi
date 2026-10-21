@@ -1,0 +1,256 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:jinriheshi:schema:recommendation-response:1.0.0",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "mode": {
+      "enum": [
+        "production",
+        "development"
+      ]
+    },
+    "status": {
+      "enum": [
+        "ok",
+        "no_candidate"
+      ]
+    },
+    "candidate_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "selected": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "recipe_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "recipe_version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "dish_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "title": {
+              "type": "string",
+              "minLength": 1
+            },
+            "publication_state": {
+              "enum": [
+                "development",
+                "published"
+              ]
+            },
+            "review_status": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "source_estimate_minutes": {
+              "anyOf": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "min": {
+                      "type": "number",
+                      "minimum": 0
+                    },
+                    "max": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    }
+                  },
+                  "required": [
+                    "min",
+                    "max"
+                  ],
+                  "additionalProperties": false
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "total_minutes": {
+              "anyOf": [
+                {
+                  "type": "object",
+                  "properties": {
+                    "min": {
+                      "type": "number",
+                      "minimum": 0
+                    },
+                    "max": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    }
+                  },
+                  "required": [
+                    "min",
+                    "max"
+                  ],
+                  "additionalProperties": false
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "time_status": {
+              "enum": [
+                "source_estimate",
+                "unknown",
+                "verified"
+              ]
+            },
+            "meal_form": {
+              "type": "string"
+            },
+            "standalone_meal": {
+              "anyOf": [
+                {
+                  "type": "boolean"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "missing_ingredient_ids": {
+              "anyOf": [
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "pattern": "^[a-z][a-z0-9_]*$"
+                  },
+                  "uniqueItems": true
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "selected_ingredient_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z][a-z0-9_]*$"
+              },
+              "uniqueItems": true
+            },
+            "omitted_optional_ingredient_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z][a-z0-9_]*$"
+              },
+              "uniqueItems": true
+            },
+            "pantry_match_scope": {
+              "enum": [
+                "not_checked",
+                "ingredient_types_only"
+              ]
+            },
+            "reasons": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "notices": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": [
+            "recipe_id",
+            "recipe_version",
+            "dish_id",
+            "title",
+            "publication_state",
+            "review_status",
+            "source_url",
+            "source_estimate_minutes",
+            "total_minutes",
+            "time_status",
+            "meal_form",
+            "standalone_meal",
+            "missing_ingredient_ids",
+            "selected_ingredient_ids",
+            "omitted_optional_ingredient_ids",
+            "pantry_match_scope",
+            "reasons",
+            "notices"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "exclusion_counts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer",
+        "minimum": 0
+      }
+    },
+    "suggestions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "minLength": 1
+          },
+          "message": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "code",
+          "message"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "notices": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "mode",
+    "status",
+    "candidate_count",
+    "selected",
+    "exclusion_counts",
+    "suggestions",
+    "notices"
+  ],
+  "additionalProperties": false
+}

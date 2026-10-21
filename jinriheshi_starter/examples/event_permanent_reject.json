@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "event_id": "example-event-reject-0001",
+  "session_id": "example-session",
+  "recommendation_id": "example-recommendation",
+  "recipe_id": "example-recipe",
+  "recipe_version": "example-version",
+  "type": "reject",
+  "reason": "always_dislike",
+  "occurred_at": "2026-10-21T12:00:00Z",
+  "scope": "permanent",
+  "confirmed_permanent": true,
+  "permanent_excluded_ingredient_ids": ["ing_cucumber"]
+}

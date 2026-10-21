@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "event_id": "example-event-accept-0001",
+  "session_id": "example-session",
+  "recommendation_id": "example-recommendation",
+  "recipe_id": "example-recipe",
+  "recipe_version": "example-version",
+  "type": "accept",
+  "reason": null,
+  "occurred_at": "2026-10-21T12:00:00Z",
+  "scope": "session",
+  "confirmed_permanent": false,
+  "permanent_excluded_ingredient_ids": []
+}

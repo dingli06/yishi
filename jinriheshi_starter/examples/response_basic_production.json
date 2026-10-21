@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "mode": "production",
+  "status": "no_candidate",
+  "candidate_count": 0,
+  "selected": null,
+  "exclusion_counts": {
+    "not_published": 372
+  },
+  "suggestions": [
+    {
+      "code": "NO_PUBLISHED_CONTENT",
+      "message": "当前可发布内容不足；需要完成内容审核后再上线。"
+    }
+  ],
+  "notices": []
+}

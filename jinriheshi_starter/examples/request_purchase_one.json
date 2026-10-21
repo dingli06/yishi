@@ -1,0 +1,6 @@
+{
+  "schema_version": "1.0.0",
+  "constraints": {"pantry_mode": "allow_missing", "max_missing_ingredients": 1, "owned_ingredients": ["ing_egg", "ing_salt", "ing_cooking_oil", "ing_water"]},
+  "preferences": {"priority_ingredients": ["ing_egg"]},
+  "context": {}
+}

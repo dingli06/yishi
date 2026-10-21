@@ -1,0 +1,763 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:jinriheshi:schema:recipe:1.0.0",
+  "title": "Jinriheshi recipe version",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "recipe_id": {
+      "type": "string",
+      "pattern": "^recipe_[0-9a-f]{32}$"
+    },
+    "dish_id": {
+      "type": "string",
+      "pattern": "^dish_[0-9a-f]{32}$"
+    },
+    "recipe_version": {
+      "type": "string",
+      "pattern": "^rv_[0-9a-f]{24}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "source_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_]*$"
+        },
+        "source_key": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "revision": {
+          "type": "string",
+          "minLength": 1
+        },
+        "blob_sha": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9a-f]{40}$"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "content_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "raw_path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "license": {
+          "type": "string",
+          "minLength": 1
+        },
+        "adapter_version": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "source_id",
+        "source_key",
+        "source_path",
+        "revision",
+        "blob_sha",
+        "content_sha256",
+        "url",
+        "raw_path",
+        "license",
+        "adapter_version"
+      ],
+      "additionalProperties": false
+    },
+    "publication": {
+      "type": "object",
+      "properties": {
+        "state": {
+          "enum": [
+            "draft",
+            "development",
+            "published",
+            "withdrawn"
+          ]
+        },
+        "reviewed_by": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "reviewed_at": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "state",
+        "reviewed_by",
+        "reviewed_at"
+      ],
+      "additionalProperties": false
+    },
+    "source_category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "content": {
+      "type": "object",
+      "properties": {
+        "intro": {
+          "type": "string"
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "heading": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kind": {
+                "enum": [
+                  "ingredients",
+                  "quantities",
+                  "steps",
+                  "notes",
+                  "other"
+                ]
+              },
+              "text": {
+                "type": "string"
+              },
+              "line_start": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "line_end": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "required": [
+              "heading",
+              "kind",
+              "text",
+              "line_start",
+              "line_end"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[a-z][a-z0-9_]*$"
+              },
+              "position": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_heading": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "id",
+              "position",
+              "text",
+              "source_heading"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "image_refs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "intro",
+        "sections",
+        "steps",
+        "image_refs"
+      ],
+      "additionalProperties": false
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ingredient_id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$"
+          },
+          "source_name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "role": {
+            "enum": [
+              "main",
+              "seasoning",
+              "other"
+            ]
+          },
+          "requirement": {
+            "enum": [
+              "required",
+              "optional",
+              "alternative",
+              "unknown"
+            ]
+          },
+          "quantity_text": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "alternative_group": {
+            "anyOf": [
+              {
+                "type": "string",
+                "minLength": 1
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "quote": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "section": {
+                  "enum": [
+                    "ingredients",
+                    "quantities",
+                    "steps",
+                    "intro",
+                    "notes"
+                  ]
+                }
+              },
+              "required": [
+                "quote",
+                "section"
+              ],
+              "additionalProperties": false
+            },
+            "minItems": 1
+          }
+        },
+        "required": [
+          "ingredient_id",
+          "source_name",
+          "role",
+          "requirement",
+          "quantity_text",
+          "alternative_group",
+          "evidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "tags": {
+      "type": "object",
+      "properties": {
+        "tastes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$"
+          },
+          "uniqueItems": true
+        },
+        "cuisines": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$"
+          },
+          "uniqueItems": true
+        },
+        "textures": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$"
+          },
+          "uniqueItems": true
+        },
+        "meal_form": {
+          "enum": [
+            "dish",
+            "staple",
+            "soup",
+            "breakfast",
+            "drink",
+            "dessert",
+            "condiment",
+            "semi_finished",
+            "unknown"
+          ]
+        },
+        "standalone_meal": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "tastes",
+        "cuisines",
+        "textures",
+        "meal_form",
+        "standalone_meal"
+      ],
+      "additionalProperties": false
+    },
+    "equipment": {
+      "type": "object",
+      "properties": {
+        "required_all": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$"
+          },
+          "uniqueItems": true
+        },
+        "required_any": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_]*$"
+            },
+            "uniqueItems": true
+          },
+          "minItems": 0
+        },
+        "status": {
+          "enum": [
+            "unknown",
+            "agent_checked",
+            "needs_review",
+            "verified"
+          ]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "quote": {
+                "type": "string",
+                "minLength": 1
+              },
+              "section": {
+                "enum": [
+                  "ingredients",
+                  "quantities",
+                  "steps",
+                  "intro",
+                  "notes"
+                ]
+              }
+            },
+            "required": [
+              "quote",
+              "section"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "required_all",
+        "required_any",
+        "status",
+        "evidence"
+      ],
+      "additionalProperties": false
+    },
+    "time": {
+      "type": "object",
+      "properties": {
+        "source_text": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "source_estimate_minutes": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "min": {
+                  "type": "number",
+                  "minimum": 0
+                },
+                "max": {
+                  "type": "number",
+                  "exclusiveMinimum": 0
+                }
+              },
+              "required": [
+                "min",
+                "max"
+              ],
+              "additionalProperties": false
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "total_minutes": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "min": {
+                  "type": "number",
+                  "minimum": 0
+                },
+                "max": {
+                  "type": "number",
+                  "exclusiveMinimum": 0
+                }
+              },
+              "required": [
+                "min",
+                "max"
+              ],
+              "additionalProperties": false
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "active_minutes": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "min": {
+                  "type": "number",
+                  "minimum": 0
+                },
+                "max": {
+                  "type": "number",
+                  "exclusiveMinimum": 0
+                }
+              },
+              "required": [
+                "min",
+                "max"
+              ],
+              "additionalProperties": false
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "prerequisites": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "status": {
+          "enum": [
+            "source_estimate",
+            "unknown",
+            "verified"
+          ]
+        }
+      },
+      "required": [
+        "source_text",
+        "source_estimate_minutes",
+        "total_minutes",
+        "active_minutes",
+        "prerequisites",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "servings": {
+      "type": "object",
+      "properties": {
+        "source_text": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "min": {
+          "anyOf": [
+            {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "max": {
+          "anyOf": [
+            {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "status": {
+          "enum": [
+            "unknown",
+            "source_estimate",
+            "verified"
+          ]
+        },
+        "scaling_policy": {
+          "enum": [
+            "manual",
+            "linear_verified"
+          ]
+        }
+      },
+      "required": [
+        "source_text",
+        "min",
+        "max",
+        "status",
+        "scaling_policy"
+      ],
+      "additionalProperties": false
+    },
+    "nutrition": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "null"
+        },
+        "status": {
+          "const": "unknown"
+        }
+      },
+      "required": [
+        "value",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "cost": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "null"
+        },
+        "status": {
+          "const": "unknown"
+        }
+      },
+      "required": [
+        "value",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "tag_evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string",
+            "minLength": 1
+          },
+          "value": {
+            "type": [
+              "string",
+              "boolean"
+            ]
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1
+          },
+          "section": {
+            "enum": [
+              "ingredients",
+              "quantities",
+              "steps",
+              "intro",
+              "notes"
+            ]
+          }
+        },
+        "required": [
+          "field",
+          "value",
+          "quote",
+          "section"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "enum": [
+            "imported",
+            "agent_checked",
+            "needs_review",
+            "approved"
+          ]
+        },
+        "ingredient_completeness": {
+          "enum": [
+            "agent_checked",
+            "needs_review",
+            "verified"
+          ]
+        },
+        "issues": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "reviewer": {
+          "anyOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "cooking_tested": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "status",
+        "ingredient_completeness",
+        "issues",
+        "reviewer",
+        "cooking_tested"
+      ],
+      "additionalProperties": false
+    },
+    "extensions": {
+      "type": "object"
+    }
+  },
+  "required": [
+    "schema_version",
+    "recipe_id",
+    "dish_id",
+    "recipe_version",
+    "title",
+    "source",
+    "publication",
+    "source_category",
+    "content",
+    "ingredients",
+    "tags",
+    "equipment",
+    "time",
+    "servings",
+    "nutrition",
+    "cost",
+    "tag_evidence",
+    "review",
+    "extensions"
+  ],
+  "additionalProperties": false
+}

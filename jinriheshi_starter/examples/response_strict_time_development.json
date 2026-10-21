@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "mode": "development",
+  "status": "no_candidate",
+  "candidate_count": 0,
+  "selected": null,
+  "exclusion_counts": {
+    "not_published": 342,
+    "prerequisite_unconfirmed": 12,
+    "total_time_unverified": 30
+  },
+  "suggestions": [
+    {
+      "code": "TIME_DATA_UNVERIFIED",
+      "message": "现有候选缺少已核验总时间；可明确取消严格时间条件或补充审核。"
+    }
+  ],
+  "notices": [
+    "开发预览使用代理整理的种子数据，未经人工发布审核和实烹。"
+  ]
+}

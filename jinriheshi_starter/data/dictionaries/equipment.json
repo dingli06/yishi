@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "id": "eq_knife",
+      "name": "菜刀",
+      "aliases": [
+        "刀"
+      ]
+    },
+    {
+      "id": "eq_cutting_board",
+      "name": "砧板",
+      "aliases": [
+        "案板"
+      ]
+    },
+    {
+      "id": "eq_pan",
+      "name": "烹饪锅",
+      "aliases": [
+        "锅"
+      ]
+    },
+    {
+      "id": "eq_lid",
+      "name": "锅盖",
+      "aliases": []
+    },
+    {
+      "id": "eq_stovetop",
+      "name": "可调火力炉灶",
+      "aliases": [
+        "炉灶"
+      ]
+    },
+    {
+      "id": "eq_bowl",
+      "name": "碗",
+      "aliases": []
+    },
+    {
+      "id": "eq_plate",
+      "name": "盘子",
+      "aliases": [
+        "盘",
+        "碟子"
+      ]
+    },
+    {
+      "id": "eq_spatula",
+      "name": "锅铲",
+      "aliases": [
+        "铲子"
+      ]
+    },
+    {
+      "id": "eq_chopsticks",
+      "name": "筷子",
+      "aliases": []
+    },
+    {
+      "id": "eq_soup_spoon",
+      "name": "勺子",
+      "aliases": [
+        "汤勺"
+      ]
+    },
+    {
+      "id": "eq_steamer",
+      "name": "蒸锅",
+      "aliases": []
+    },
+    {
+      "id": "eq_frying_pan",
+      "name": "平底锅",
+      "aliases": []
+    },
+    {
+      "id": "eq_microwave",
+      "name": "微波炉",
+      "aliases": []
+    },
+    {
+      "id": "eq_microwave_bowl",
+      "name": "可微波碗",
+      "aliases": [
+        "可微波陶瓷碗"
+      ]
+    },
+    {
+      "id": "eq_microwave_plate",
+      "name": "可微波瓷盘",
+      "aliases": []
+    },
+    {
+      "id": "eq_microwave_film",
+      "name": "适用于微波炉的保鲜膜",
+      "aliases": []
+    },
+    {
+      "id": "eq_toothpick",
+      "name": "牙签",
+      "aliases": []
+    },
+    {
+      "id": "eq_rice_cooker",
+      "name": "电饭煲",
+      "aliases": []
+    },
+    {
+      "id": "eq_pressure_cooker",
+      "name": "高压锅",
+      "aliases": [
+        "压力锅"
+      ]
+    },
+    {
+      "id": "eq_strainer",
+      "name": "滤网",
+      "aliases": []
+    },
+    {
+      "id": "eq_fridge",
+      "name": "冰箱",
+      "aliases": []
+    },
+    {
+      "id": "eq_scale",
+      "name": "电子秤",
+      "aliases": []
+    },
+    {
+      "id": "eq_food_container",
+      "name": "食物容器",
+      "aliases": [
+        "容器"
+      ]
+    },
+    {
+      "id": "eq_scissors",
+      "name": "剪刀",
+      "aliases": []
+    },
+    {
+      "id": "eq_grater",
+      "name": "刨丝器",
+      "aliases": []
+    },
+    {
+      "id": "eq_fruit_knife",
+      "name": "水果刀",
+      "aliases": []
+    },
+    {
+      "id": "eq_kitchen_paper",
+      "name": "厨房纸",
+      "aliases": []
+    },
+    {
+      "id": "eq_steel_wool",
+      "name": "钢丝球",
+      "aliases": []
+    }
+  ]
+}

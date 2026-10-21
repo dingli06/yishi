@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:jinriheshi:schema:event:1.0.0",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "event_id": {
+      "type": "string",
+      "minLength": 16,
+      "maxLength": 128
+    },
+    "session_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "recommendation_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "recipe_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "recipe_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "type": {
+      "enum": [
+        "shown",
+        "skip",
+        "accept",
+        "favorite",
+        "unfavorite",
+        "cooked",
+        "reject"
+      ]
+    },
+    "reason": {
+      "anyOf": [
+        {
+          "enum": [
+            "not_today",
+            "too_much_work",
+            "ingredients_inconvenient",
+            "recently_ate",
+            "always_dislike",
+            "just_browsing"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "occurred_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "scope": {
+      "enum": [
+        "session",
+        "recent",
+        "permanent"
+      ]
+    },
+    "confirmed_permanent": {
+      "type": "boolean"
+    },
+    "permanent_excluded_ingredient_ids": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z][a-z0-9_]*$"
+      },
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "schema_version",
+    "event_id",
+    "session_id",
+    "recommendation_id",
+    "recipe_id",
+    "recipe_version",
+    "type",
+    "reason",
+    "occurred_at",
+    "scope",
+    "confirmed_permanent",
+    "permanent_excluded_ingredient_ids"
+  ],
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "scope": {
+            "const": "permanent"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "confirmed_permanent": {
+            "const": true
+          },
+          "reason": {
+            "const": "always_dislike"
+          },
+          "type": {
+            "const": "reject"
+          },
+          "permanent_excluded_ingredient_ids": {
+            "minItems": 1
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "confirmed_permanent": {
+            "const": false
+          },
+          "permanent_excluded_ingredient_ids": {
+            "maxItems": 0
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "enum": [
+              "shown",
+              "skip",
+              "accept",
+              "favorite",
+              "unfavorite",
+              "cooked"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "reason": {
+            "type": "null"
+          },
+          "confirmed_permanent": {
+            "const": false
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+<view class="page-shell">
+  <navigation-bar title="" back="{{false}}" color="#262822" background="#F5F1E8">
+    <view slot="left" class="brand-small">今日何食</view>
+    <view slot="right" class="top-actions">
+      <button class="icon-button" bindtap="openFavorites" aria-label="收藏">♡</button>
+      <button class="icon-button" bindtap="openSettings" aria-label="设置">设置</button>
+    </view>
+  </navigation-bar>
+
+  <scroll-view class="scrollarea" scroll-y enhanced show-scrollbar="{{false}}">
+    <view wx:if="{{state === 'form'}}" class="content form-content">
+      <view class="hero">
+        <view class="hero-copy">
+          <text class="eyebrow">TODAY'S TABLE</text>
+          <text class="hero-title">今天，吃点什么？</text>
+          <text class="hero-subtitle">少想一点，也好好吃饭。</text>
+        </view>
+        <view class="bowl-art" aria-hidden="true">
+          <view class="steam steam-one"></view><view class="steam steam-two"></view>
+          <view class="bowl-fill"><text>食</text></view><view class="bowl-base"></view>
+        </view>
+      </view>
+
+      <view class="preview-banner"><text class="preview-dot"></text>开发预览 · 使用 30 条真实样板，不代表已发布内容</view>
+
+      <view class="question-card">
+        <view class="question-head"><text class="question-no">01</text><text class="question-title">想吃什么口味？</text><text class="optional">可跳过</text></view>
+        <view class="chips">
+          <button wx:for="{{tastes}}" wx:key="value" class="chip {{selectedTaste === item.value ? 'active' : ''}}" data-value="{{item.value}}" bindtap="chooseTaste">{{item.label}}</button>
+        </view>
+      </view>
+
+      <view class="question-card">
+        <view class="question-head"><text class="question-no">02</text><text class="question-title">这一餐想怎么吃？</text><text class="optional">可跳过</text></view>
+        <view class="chips">
+          <button wx:for="{{forms}}" wx:key="value" class="chip {{selectedForm === item.value ? 'active' : ''}}" data-value="{{item.value}}" bindtap="chooseForm">{{item.label}}</button>
+        </view>
+      </view>
+
+      <view class="question-card">
+        <view class="question-head"><text class="question-no">03</text><text class="question-title">有什么想优先用掉？</text><text class="optional">可跳过</text></view>
+        <view class="ingredient-field"><text class="field-icon">＋</text><input placeholder="例如：鸡蛋、番茄" value="{{priorityIngredient}}" bindinput="onIngredientInput" maxlength="20" /></view>
+        <view class="switch-row" bindtap="togglePantryOnly"><view><text class="switch-title">只用已确认的食材种类</text><text class="switch-note">数量仍需按菜谱确认</text></view><switch checked="{{pantryOnly}}" color="#3F654F" disabled /></view>
+      </view>
+
+      <view class="disabled-note"><text>时间 · 人数 · 省事程度</text><text>当前数据尚未完成相应审核，暂不开放</text></view>
+      <button class="primary-button start-button" bindtap="startRecommendation">帮我选一道 <text class="arrow">→</text></button>
+      <view class="safe-bottom"></view>
+    </view>
+
+    <view wx:elif="{{state === 'loading'}}" class="state-panel loading-panel">
+      <view class="loading-orbit"><view class="loading-seed"></view></view>
+      <text class="loading-title">正在翻翻今天的菜谱</text><text class="loading-sub">硬条件会先检查，不合适的不拿来凑数</text>
+    </view>
+
+    <view wx:elif="{{state === 'result'}}" class="content result-content">
+      <view class="result-head"><view><text class="eyebrow">A GOOD MATCH</text><text class="result-kicker">今天就它了</text></view><button class="text-action" bindtap="editConditions">改条件</button></view>
+      <view class="recipe-card">
+        <view class="recipe-visual tone-{{recipe.tone}}"><text class="recipe-glyph">{{recipe.glyph}}</text><view class="source-badge">无审核图片 · 中性占位</view></view>
+        <view class="recipe-body">
+          <view class="recipe-meta"><text>{{recipe.mealFormLabel}}</text><text>来源估计 {{recipe.sourceMinutes}} 分钟</text></view>
+          <text class="recipe-title">{{recipe.title}}</text>
+          <text class="recipe-note">{{recipe.servingNote}}</text>
+          <view class="reason-list"><view wx:for="{{recipe.reasons}}" wx:key="*this" class="reason"><text class="reason-check">✓</text><text>{{item}}</text></view></view>
+          <view wx:if="{{recipe.prerequisite}}" class="notice-box"><text class="notice-label">做前确认</text><text>{{recipe.prerequisite}}</text></view>
+          <view class="card-actions"><button class="favorite-button {{favorite ? 'saved' : ''}}" bindtap="toggleFavorite">{{favorite ? '♥ 已收藏' : '♡ 收藏'}}</button><button class="swap-button" bindtap="swapRecipe">换一道</button></view>
+          <button class="primary-button" bindtap="acceptRecipe">就做这个 <text class="arrow">→</text></button>
+        </view>
+      </view>
+      <text class="round-count">本轮已看 {{seenCount}} 道 · 同一道菜的其他版本不会重复出现</text>
+      <view class="safe-bottom"></view>
+    </view>
+
+    <view wx:elif="{{state === 'empty'}}" class="state-panel"><text class="empty-mark">∅</text><text class="state-title">这一轮已经看完了</text><text class="state-copy">当前条件下没有更多不同菜品。你可以保留条件开始新一轮，或回去放宽一项。</text><button class="primary-button state-button" bindtap="startRecommendation">开启新一轮</button><button class="secondary-button state-button" bindtap="editConditions">调整条件</button></view>
+    <view wx:else class="state-panel"><text class="empty-mark">!</text><text class="state-title">推荐没有完成</text><text class="state-copy">{{errorMessage}}</text><button class="primary-button state-button" bindtap="retry">重试</button><button class="secondary-button state-button" bindtap="editConditions">返回条件</button></view>
+  </scroll-view>
+</view>

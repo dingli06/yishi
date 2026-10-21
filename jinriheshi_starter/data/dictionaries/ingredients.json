@@ -1,0 +1,1008 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "id": "ing_tomato",
+      "name": "西红柿",
+      "aliases": [
+        "番茄"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_egg",
+      "name": "鸡蛋",
+      "aliases": [
+        "生鸡蛋"
+      ],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cooking_oil",
+      "name": "食用油",
+      "aliases": [
+        "植物油"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_salt",
+      "name": "盐",
+      "aliases": [
+        "食盐",
+        "食用盐"
+      ],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_sugar",
+      "name": "白糖",
+      "aliases": [
+        "白砂糖",
+        "糖"
+      ],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_scallion",
+      "name": "小葱",
+      "aliases": [
+        "香葱",
+        "葱花",
+        "小葱花"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_green_onion",
+      "name": "葱",
+      "aliases": [
+        "葱段"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_leek",
+      "name": "大葱",
+      "aliases": [
+        "大葱白"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_vinegar",
+      "name": "醋",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_aged_vinegar",
+      "name": "陈醋",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_aromatic_vinegar",
+      "name": "香醋",
+      "aliases": [
+        "镇江香醋"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_white_vinegar",
+      "name": "白醋",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_ketchup",
+      "name": "番茄酱",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_water",
+      "name": "饮用水",
+      "aliases": [
+        "清水",
+        "冷水",
+        "开水",
+        "热水",
+        "温水",
+        "水"
+      ],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_light_soy_sauce",
+      "name": "生抽",
+      "aliases": [
+        "生抽酱油"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_dark_soy_sauce",
+      "name": "老抽",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_soy_sauce",
+      "name": "酱油",
+      "aliases": [
+        "味极鲜酱油",
+        "味极鲜"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_cucumber",
+      "name": "黄瓜",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_garlic",
+      "name": "蒜",
+      "aliases": [
+        "大蒜",
+        "蒜头",
+        "蒜瓣",
+        "蒜末",
+        "蒜泥"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_sesame_oil",
+      "name": "香油",
+      "aliases": [
+        "芝麻油"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_oyster_sauce",
+      "name": "蚝油",
+      "aliases": [
+        "耗油"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_potato",
+      "name": "土豆",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_green_pepper",
+      "name": "青椒",
+      "aliases": [
+        "青辣椒"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_red_pepper",
+      "name": "红椒",
+      "aliases": [
+        "红辣椒"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_dried_chili",
+      "name": "干辣椒",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cabbage",
+      "name": "包菜",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_pork_belly",
+      "name": "五花肉",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_bird_eye_chili",
+      "name": "小米辣",
+      "aliases": [
+        "小米椒"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cooking_wine",
+      "name": "料酒",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_chicken_seasoning",
+      "name": "鸡精",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_ginger",
+      "name": "姜",
+      "aliases": [
+        "生姜",
+        "姜片",
+        "姜丝"
+      ],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_garlic_sprout",
+      "name": "蒜苗",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_broccoli",
+      "name": "西兰花",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_pumpkin",
+      "name": "南瓜",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_preserved_egg",
+      "name": "皮蛋",
+      "aliases": [
+        "松花蛋"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_silken_tofu",
+      "name": "内酯豆腐",
+      "aliases": [
+        "内脂豆腐"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_chili_oil",
+      "name": "辣椒油",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_crushed_peanut",
+      "name": "花生碎",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cilantro",
+      "name": "香菜",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_leafy_greens",
+      "name": "青菜",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_salted_duck_egg",
+      "name": "咸鸭蛋",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_minced_pork",
+      "name": "猪肉糜",
+      "aliases": [
+        "肉糜"
+      ],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_spicy_sauce",
+      "name": "香辣酱",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_garlic_chili_sauce",
+      "name": "蒜蓉辣酱",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_sichuan_pepper",
+      "name": "花椒",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_chicken_wing_middle",
+      "name": "鸡翅中",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_chicken_wing",
+      "name": "鸡翅",
+      "aliases": [
+        "新鲜鸡翅"
+      ],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cola",
+      "name": "可乐",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_beer",
+      "name": "啤酒",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_bay_leaf",
+      "name": "香叶",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_star_anise",
+      "name": "八角",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_rock_sugar",
+      "name": "冰糖",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_huangjiu",
+      "name": "黄酒",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_pepper_powder",
+      "name": "胡椒粉",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_white_pepper_powder",
+      "name": "白胡椒粉",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_black_pepper",
+      "name": "黑胡椒",
+      "aliases": [
+        "黑胡椒粉"
+      ],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_white_sesame",
+      "name": "白芝麻",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_toasted_white_sesame",
+      "name": "熟白芝麻",
+      "aliases": [],
+      "state": "cooked",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_sesame",
+      "name": "芝麻",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_chicken_leg",
+      "name": "鸡腿",
+      "aliases": [
+        "大鸡腿",
+        "鸡腿肉"
+      ],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_dried_shiitake",
+      "name": "干香菇",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_fresh_shiitake",
+      "name": "鲜香菇",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_doubanjiang",
+      "name": "豆瓣酱",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_msg",
+      "name": "味精",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_onion",
+      "name": "洋葱",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_white_onion",
+      "name": "白洋葱",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_pork_rump",
+      "name": "二刀肉",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_pork_ribs",
+      "name": "排骨",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_five_spice",
+      "name": "五香粉",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_starch",
+      "name": "淀粉",
+      "aliases": [
+        "干淀粉"
+      ],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_live_shrimp",
+      "name": "活虾",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_peeled_shrimp",
+      "name": "虾仁",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_dried_small_shrimp",
+      "name": "虾皮",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_sea_bass",
+      "name": "鲈鱼",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_steamed_fish_soy_sauce",
+      "name": "蒸鱼豉油",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_fish",
+      "name": "鱼",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cooked_rice",
+      "name": "米饭",
+      "aliases": [
+        "冷饭",
+        "熟米饭"
+      ],
+      "state": "cooked",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_raw_rice",
+      "name": "大米",
+      "aliases": [
+        "江南米",
+        "北方大米",
+        "生米"
+      ],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_ham",
+      "name": "火腿",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_ham_sausage",
+      "name": "火腿肠",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_carrot",
+      "name": "胡萝卜",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_unspecified_cooked_meat",
+      "name": "熟肉",
+      "aliases": [
+        "其它熟肉",
+        "其他熟肉"
+      ],
+      "state": "cooked",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_dengying_beef",
+      "name": "灯影牛肉丝",
+      "aliases": [],
+      "state": "cooked",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_luncheon_meat",
+      "name": "午餐肉",
+      "aliases": [],
+      "state": "cooked",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_cured_sausage",
+      "name": "腊肠",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_braised_meat",
+      "name": "卤肉",
+      "aliases": [],
+      "state": "cooked",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_dried_noodle",
+      "name": "干面条",
+      "aliases": [
+        "挂面"
+      ],
+      "state": "dry",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_fresh_noodle",
+      "name": "鲜面条",
+      "aliases": [
+        "湿面条"
+      ],
+      "state": "fresh",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_sliced_beef",
+      "name": "肥牛",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_mirin",
+      "name": "味淋",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_onsen_egg",
+      "name": "温泉蛋",
+      "aliases": [],
+      "state": "cooked",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_dashi",
+      "name": "出汁",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_sake",
+      "name": "清酒",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_silver_ear",
+      "name": "银耳",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_cored_lotus_seed",
+      "name": "去心莲子",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_red_date",
+      "name": "红枣",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_goji",
+      "name": "枸杞",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_dried_laver",
+      "name": "干紫菜",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_beef",
+      "name": "牛肉",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_unspecified_chili",
+      "name": "辣椒",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_chili_sauce",
+      "name": "辣椒酱",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_enoki",
+      "name": "金针菇",
+      "aliases": [],
+      "state": "fresh",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_unspecified_ma_oil",
+      "name": "麻油",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_cinnamon_bark",
+      "name": "桂皮",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_fennel",
+      "name": "茴香",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_black_tea",
+      "name": "红茶",
+      "aliases": [],
+      "state": "dry",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_braising_spice_pack",
+      "name": "卤料包",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_soybean_paste",
+      "name": "黄豆酱",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_red_fermented_tofu",
+      "name": "南腐乳",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_beef_shank",
+      "name": "牛腱子",
+      "aliases": [],
+      "state": "raw",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_yellow_rock_sugar",
+      "name": "黄冰糖",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_chili_powder",
+      "name": "辣椒粉",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_green_pepper_oil",
+      "name": "藤椒油",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "unknown",
+      "components": []
+    },
+    {
+      "id": "ing_wood_ear",
+      "name": "木耳",
+      "aliases": [],
+      "state": "unspecified",
+      "component_status": "simple",
+      "components": []
+    },
+    {
+      "id": "ing_fried_peanut",
+      "name": "油炸花生米",
+      "aliases": [],
+      "state": "cooked",
+      "component_status": "unknown",
+      "components": []
+    }
+  ]
+}

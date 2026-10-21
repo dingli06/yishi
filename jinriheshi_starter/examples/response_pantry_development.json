@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "mode": "development",
+  "status": "ok",
+  "candidate_count": 1,
+  "selected": {
+    "recipe_id": "recipe_2ed5fd46169858cb95a95b65169fdc41",
+    "recipe_version": "rv_d5331004cde15e9f72f2d9aa",
+    "dish_id": "dish_94970bd943f857d5b8c8380f20ee18d3",
+    "title": "凉拌黄瓜",
+    "publication_state": "development",
+    "review_status": "agent_checked",
+    "source_url": "https://raw.githubusercontent.com/Anduin2017/HowToCook/0e106eea348c734fe1586f781202994439cf98a5/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E9%BB%84%E7%93%9C.md",
+    "source_estimate_minutes": {
+      "max": 20,
+      "min": 20
+    },
+    "total_minutes": null,
+    "time_status": "source_estimate",
+    "meal_form": "dish",
+    "standalone_meal": false,
+    "selected_ingredient_ids": [
+      "ing_cucumber",
+      "ing_garlic",
+      "ing_oyster_sauce",
+      "ing_salt",
+      "ing_sesame_oil",
+      "ing_soy_sauce",
+      "ing_sugar",
+      "ing_vinegar"
+    ],
+    "missing_ingredient_ids": [],
+    "omitted_optional_ingredient_ids": [],
+    "pantry_match_scope": "ingredient_types_only",
+    "reasons": [
+      "符合你选择的口味偏好。",
+      "必需食材种类已匹配；数量请自行核对。"
+    ],
+    "notices": [
+      "源文时间仅供参考，尚未核验完整开饭时间。",
+      "前置条件：步骤包含15分钟腌制。",
+      "这是一道菜或配餐部分，需按需要另配主食或其他菜。"
+    ]
+  },
+  "exclusion_counts": {
+    "ingredient_requirements_unknown": 9,
+    "ingredients_not_reviewed": 12,
+    "not_published": 342,
+    "pantry_missing": 29,
+    "required_ingredient_missing": 27
+  },
+  "suggestions": [],
+  "notices": [
+    "开发预览使用代理整理的种子数据，未经人工发布审核和实烹。"
+  ]
+}

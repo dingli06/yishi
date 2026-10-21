@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0.0",
+  "constraints": {
+    "pantry_mode": "only_owned",
+    "owned_ingredients": ["ing_cucumber", "ing_vinegar", "ing_soy_sauce", "ing_garlic", "ing_salt", "ing_sesame_oil", "ing_oyster_sauce", "ing_sugar"],
+    "required_ingredients": ["ing_cucumber"]
+  },
+  "preferences": {"tastes": ["taste_sour"]},
+  "context": {}
+}

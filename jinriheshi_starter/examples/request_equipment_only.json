@@ -1,0 +1,6 @@
+{
+  "schema_version": "1.0.0",
+  "constraints": {"available_equipment": ["eq_knife", "eq_bowl"], "meal_forms": ["dish"]},
+  "preferences": {},
+  "context": {}
+}

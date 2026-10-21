@@ -1,0 +1,39 @@
+{
+  "adapter_version": "howtocook-markdown/1.0.0",
+  "audited_total_time_count": 0,
+  "categories": {
+    "aquatic": 28,
+    "breakfast": 25,
+    "condiment": 9,
+    "dessert": 19,
+    "drink": 23,
+    "meat_dish": 111,
+    "semi-finished": 10,
+    "soup": 23,
+    "staple": 59,
+    "vegetable_dish": 65
+  },
+  "files": {
+    "recipes.jsonl": "9f8ef76b63ba728c91beea4319c773fea6adaee056916b3b87afa3f4f4e2389d",
+    "seed_recipes.jsonl": "aeda469aee538782eb3928d22013d0b16f8ba3a58037fd28092a93b362756dd0"
+  },
+  "image_files_included": 0,
+  "notes": [
+    "开发样板由代理依据原文整理；未经人审和实烹，不是生产发布库。",
+    "372是文档记录数，含饮料、调料、甜品及半成品，不是完整餐食数。",
+    "构建结果不包含抓取时间，输入相同则字节相同。"
+  ],
+  "published_count": 0,
+  "recipe_count": 372,
+  "schema_version": "1.0.0",
+  "seed_count": 30,
+  "seed_review_states": {
+    "agent_checked": 18,
+    "needs_review": 12
+  },
+  "source_revision": "0e106eea348c734fe1586f781202994439cf98a5",
+  "states": {
+    "development": 30,
+    "draft": 342
+  }
+}

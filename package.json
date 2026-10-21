@@ -1,0 +1,13 @@
+{
+  "name": "jinriheshi-miniprogram",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node tests/static-check.js && node tests/mock-api.test.js"
+  },
+  "devDependencies": {
+    "miniprogram-api-typings": "^4.1.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {"id": "taste_sour", "name": "酸香", "group": "tastes"},
+    {"id": "taste_sweet", "name": "甜味", "group": "tastes"},
+    {"id": "taste_savory", "name": "咸鲜", "group": "tastes"},
+    {"id": "taste_spicy", "name": "辣味", "group": "tastes"},
+    {"id": "taste_light", "name": "清淡", "group": "tastes"},
+    {"id": "taste_mala", "name": "麻辣", "group": "tastes"},
+    {"id": "cuisine_hunan", "name": "湘菜", "group": "cuisines"},
+    {"id": "cuisine_cantonese", "name": "粤菜", "group": "cuisines"},
+    {"id": "cuisine_sichuan", "name": "川菜", "group": "cuisines"},
+    {"id": "cuisine_shanghai", "name": "上海风味", "group": "cuisines"},
+    {"id": "cuisine_japanese", "name": "日式", "group": "cuisines"},
+    {"id": "texture_tender", "name": "嫩", "group": "textures"},
+    {"id": "texture_soft", "name": "软", "group": "textures"},
+    {"id": "texture_crisp", "name": "脆", "group": "textures"},
+    {"id": "texture_smooth", "name": "滑", "group": "textures"},
+    {"id": "texture_chewy", "name": "有嚼劲", "group": "textures"}
+  ]
+}

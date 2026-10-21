@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "default_mode": "production",
+  "defaults": {"constraints": {"pantry_mode": "any"}, "preferences": {"novelty": "any"}},
+  "features": [
+    {"id": "tastes", "label": "想吃什么口味", "request_path": "preferences.tastes", "source": "data/dictionaries/tags.json", "implemented": true, "production_requires": "published content and reviewed tags"},
+    {"id": "cuisines", "label": "偏好菜系", "request_path": "preferences.cuisines", "source": "data/dictionaries/tags.json", "implemented": true, "production_requires": "published content and reviewed tags"},
+    {"id": "priority_ingredients", "label": "想用掉的食材", "request_path": "preferences.priority_ingredients", "source": "data/dictionaries/ingredients.json", "implemented": true, "production_requires": "published content and reviewed ingredient mapping"},
+    {"id": "pantry", "label": "只用已有食材", "request_path": "constraints.pantry_mode", "implemented": true, "production_requires": "verified ingredient completeness; type matching only"},
+    {"id": "equipment", "label": "可用厨具", "request_path": "constraints.available_equipment", "source": "data/dictionaries/equipment.json", "implemented": true, "production_requires": "verified complete equipment sets"},
+    {"id": "strict_time", "label": "多久开饭", "request_path": "constraints.max_total_minutes", "implemented": true, "production_requires": "verified total time and cooking calibration", "current_seed_available_count": 0},
+    {"id": "servings", "label": "几个人吃", "request_path": "constraints.servings", "implemented": true, "production_requires": "verified servings range and scaling policy", "current_seed_available_count": 0},
+    {"id": "effort", "label": "今天想省事", "request_path": null, "implemented": false, "production_requires": "active time, cutting, attention and cleanup labels plus calibrated scoring"},
+    {"id": "nutrition", "label": "营养筛选", "request_path": null, "implemented": false, "production_requires": "ingredient weights, serving basis and documented calculations"},
+    {"id": "budget", "label": "预算", "request_path": null, "implemented": false, "production_requires": "regional prices, quantities and dated cost basis"}
+  ],
+  "note": "生产选项由服务端按published数据动态计算可用性；implemented=true不表示当前有已发布内容。"
+}

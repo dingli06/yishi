@@ -1,0 +1,22 @@
+<view class="page-shell" wx:if="{{recipe}}">
+  <navigation-bar title="做法详情" back="{{true}}" color="#262822" background="#F5F1E8"></navigation-bar>
+  <scroll-view class="detail-scroll" scroll-y enhanced show-scrollbar="{{false}}">
+    <view class="detail-hero tone-{{recipe.tone}}"><text class="detail-glyph">{{recipe.glyph}}</text><view class="version-pill">具体版本 · {{recipe.version}}</view></view>
+    <view class="detail-content">
+      <view wx:if="{{accepted}}" class="accepted-banner"><text>✓</text><view><text>已经决定做这道</text><text>接受不会自动记为“做过”</text></view></view>
+      <text class="eyebrow">{{recipe.mealFormLabel}} · HOW TO COOK</text>
+      <text class="detail-title">{{recipe.title}}</text>
+      <view class="detail-meta"><view><text class="meta-value">{{recipe.sourceMinutes}}</text><text class="meta-label">分钟 · 来源估计</text></view><view><text class="meta-value">—</text><text class="meta-label">人数待核验</text></view></view>
+      <view class="warning"><text class="warning-title">先看这里</text><text>{{recipe.prerequisite}}</text><text>样板未经过真人实烹，按实际情况确认熟度与用量。</text></view>
+      <view class="tabs"><button class="tab {{tab === 'ingredients' ? 'active' : ''}}" data-tab="ingredients" bindtap="selectTab">材料</button><button class="tab {{tab === 'steps' ? 'active' : ''}}" data-tab="steps" bindtap="selectTab">步骤</button></view>
+      <view wx:if="{{tab === 'ingredients'}}" class="list-card">
+        <view wx:for="{{recipe.ingredients}}" wx:key="name" class="ingredient-row"><view><text class="ingredient-name">{{item.name}}</text><text wx:if="{{item.optional}}" class="optional-badge">可选</text></view><text class="ingredient-amount">{{item.amount}}</text></view>
+        <text class="list-footnote">原文数量文本按版本保留，没有自动按人数缩放。</text>
+      </view>
+      <view wx:else class="steps-list"><view wx:for="{{recipe.steps}}" wx:key="index" class="step-row"><text class="step-no">{{index + 1}}</text><text class="step-text">{{item}}</text></view></view>
+      <button class="source-link" bindtap="copySource">复制 HowToCook 原文链接 ↗</button>
+      <view class="bottom-actions"><button class="secondary-button" bindtap="toggleFavorite">{{favorite ? '♥ 已收藏' : '♡ 收藏'}}</button><button class="primary-button" bindtap="markCooked">{{cooked ? '✓ 已记录做过' : '我做过了'}}</button></view>
+      <view class="safe-bottom"></view>
+    </view>
+  </scroll-view>
+</view>

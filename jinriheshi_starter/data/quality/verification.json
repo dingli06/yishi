@@ -1,0 +1,41 @@
+{
+  "automated_tests": {
+    "failed": 0,
+    "markdown_and_versions": 9,
+    "passed": 48,
+    "pipeline_and_contracts": 14,
+    "recommendation": 17,
+    "source_integrity": 8
+  },
+  "cooking_tested_count": 0,
+  "development_seed_count": 30,
+  "execution_environment": {
+    "os": "Linux",
+    "python": "3.12.14"
+  },
+  "external_checks": {
+    "cooking_time_measurement": "not_done",
+    "human_content_approval": "not_done",
+    "physical_device": "not_run",
+    "wechat_developer_tools": "not_run"
+  },
+  "generated_file_sha256": {
+    "recipes.jsonl": "9f8ef76b63ba728c91beea4319c773fea6adaee056916b3b87afa3f4f4e2389d",
+    "seed_recipes.jsonl": "aeda469aee538782eb3928d22013d0b16f8ba3a58037fd28092a93b362756dd0"
+  },
+  "product_acceptance_cases_defined": 56,
+  "product_acceptance_fully_executed": false,
+  "project_version": "0.1.0",
+  "published_count": 0,
+  "raw_files_verified": 374,
+  "recipes_validated": 372,
+  "schema_version": "1.0.0",
+  "smoke_examples": {
+    "basic_development": "ok",
+    "basic_production": "no_candidate",
+    "pantry_development": "ok",
+    "strict_time_development": "no_candidate"
+  },
+  "source_images_downloaded": 0,
+  "source_revision": "0e106eea348c734fe1586f781202994439cf98a5"
+}

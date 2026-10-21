@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jinriheshi-data-starter"
+version = "0.1.0"
+description = "今日何食 HowToCook 数据基础与 agent 开发交接"
+requires-python = ">=3.10"
+dependencies = ["jsonschema==4.26.0"]
+
+[tool.setuptools.packages.find]
+include = ["jinriheshi*"]
+
+# 本工程以解压目录运行；data/schema/contracts 不随 wheel 分发。
+# 暂不声明项目代码的对外开源许可。HowToCook 内容单独遵循其原许可。

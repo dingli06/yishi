@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "mode": "development",
+  "status": "ok",
+  "candidate_count": 30,
+  "selected": {
+    "recipe_id": "recipe_5e7f9737dc405ac7a87b328133471d2f",
+    "recipe_version": "rv_b1d38b6c8ec089e7d651369a",
+    "dish_id": "dish_2a6f7a82b1fc5558b2cfe329ddf97a55",
+    "title": "清蒸鲈鱼",
+    "publication_state": "development",
+    "review_status": "needs_review",
+    "source_url": "https://raw.githubusercontent.com/Anduin2017/HowToCook/0e106eea348c734fe1586f781202994439cf98a5/dishes/aquatic/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC.md",
+    "source_estimate_minutes": {
+      "max": 30,
+      "min": 30
+    },
+    "total_minutes": null,
+    "time_status": "source_estimate",
+    "meal_form": "dish",
+    "standalone_meal": false,
+    "selected_ingredient_ids": [
+      "ing_cooking_oil",
+      "ing_ginger",
+      "ing_salt",
+      "ing_scallion",
+      "ing_sea_bass",
+      "ing_steamed_fish_soy_sauce",
+      "ing_water"
+    ],
+    "missing_ingredient_ids": null,
+    "omitted_optional_ingredient_ids": [],
+    "pantry_match_scope": "not_checked",
+    "reasons": [
+      "符合你选择的口味偏好。"
+    ],
+    "notices": [
+      "配料结构仍有待审核项，请以完整原文核对。",
+      "源文时间仅供参考，尚未核验完整开饭时间。",
+      "前置条件：鲈鱼需要预处理，并腌制10分钟以上。",
+      "这是一道菜或配餐部分，需按需要另配主食或其他菜。"
+    ]
+  },
+  "exclusion_counts": {
+    "not_published": 342
+  },
+  "suggestions": [],
+  "notices": [
+    "开发预览使用代理整理的种子数据，未经人工发布审核和实烹。"
+  ]
+}

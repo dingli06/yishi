@@ -1,0 +1,6 @@
+{
+  "schema_version": "1.0.0",
+  "constraints": {"max_total_minutes": 15},
+  "preferences": {},
+  "context": {}
+}

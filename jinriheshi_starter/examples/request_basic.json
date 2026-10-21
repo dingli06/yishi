@@ -1,0 +1,6 @@
+{
+  "schema_version": "1.0.0",
+  "constraints": {"pantry_mode": "any"},
+  "preferences": {"tastes": ["taste_savory"], "priority_ingredients": ["ing_egg"], "novelty": "new"},
+  "context": {"seen_dish_ids": [], "recently_cooked_dish_ids": [], "favorite_dish_ids": []}
+}

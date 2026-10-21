@@ -1,0 +1,3350 @@
+[
+  {
+    "dish_id": "dish_e6d3a561fa5150e2aa09926f976fc7bb",
+    "recipe_id": "recipe_5ab9b23a6f565dbabc4d197f10da795a",
+    "recipe_version": "rv_47353a0d0a972bd2d776dec9",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/咖喱炒蟹.md",
+    "state": "draft",
+    "title": "咖喱炒蟹"
+  },
+  {
+    "dish_id": "dish_9804f3d600af55c6b1d59c75565fd41a",
+    "recipe_id": "recipe_18acf43b16205f6b915dd71cbb71559a",
+    "recipe_version": "rv_baf3ea986618141e92c76712",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/响油鳝丝.md",
+    "state": "draft",
+    "title": "响油鳝丝"
+  },
+  {
+    "dish_id": "dish_fb18c55c37a05029840ffdb2ae993649",
+    "recipe_id": "recipe_e035a63ee64d55eda9a7e2b942d2cf9d",
+    "recipe_version": "rv_7d6a6ea1888909449b3fe275",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/小龙虾/小龙虾.md",
+    "state": "draft",
+    "title": "小龙虾"
+  },
+  {
+    "dish_id": "dish_6f45ff2acc8754f18346929f2761cfe2",
+    "recipe_id": "recipe_015a6f5dd5e55e3cb0069363ca7eacb9",
+    "recipe_version": "rv_8fe5569a448804022884b68e",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+    "state": "draft",
+    "title": "干煎阿根廷红虾"
+  },
+  {
+    "dish_id": "dish_2bf242d700685dd9a867a6b41c58fa63",
+    "recipe_id": "recipe_b00979971d5e558abf0283529c77d517",
+    "recipe_version": "rv_95a9201d46152d2301c4c966",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/微波葱姜黑鳕鱼.md",
+    "state": "draft",
+    "title": "微波葱姜黑鳕鱼"
+  },
+  {
+    "dish_id": "dish_2fea1b7fada257839bfafbed4536a717",
+    "recipe_id": "recipe_e6d2953581b35b78b448f305fe725c59",
+    "recipe_version": "rv_2ea9bccb014b9eeae20d6b49",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/水煮鱼.md",
+    "state": "draft",
+    "title": "水煮鱼"
+  },
+  {
+    "dish_id": "dish_2f6088787da553f4941cf2cd054760f5",
+    "recipe_id": "recipe_0c48019ee58c51078adcf4d6d4383449",
+    "recipe_version": "rv_9ac6dc87d955e0c6d3aa82e4",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/油焖大虾/油焖大虾.md",
+    "state": "draft",
+    "title": "油焖大虾"
+  },
+  {
+    "dish_id": "dish_2d3329c80c985963a8979a3c8911737f",
+    "recipe_id": "recipe_c2b238425ae35ac0928621f794361c32",
+    "recipe_version": "rv_0eddf7a9bf1787eff0e90924",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/混合烤鱼/烤鱼.md",
+    "state": "draft",
+    "title": "烤鱼"
+  },
+  {
+    "dish_id": "dish_3e2933c604ff50c880d0500bf0380d01",
+    "recipe_id": "recipe_8656ef1cac625522a517d270368e4094",
+    "recipe_version": "rv_77de9e2d7b635a80a7469732",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/清蒸生蚝.md",
+    "state": "draft",
+    "title": "清蒸生蚝"
+  },
+  {
+    "dish_id": "dish_2a6f7a82b1fc5558b2cfe329ddf97a55",
+    "recipe_id": "recipe_5e7f9737dc405ac7a87b328133471d2f",
+    "recipe_version": "rv_b1d38b6c8ec089e7d651369a",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+    "state": "development",
+    "title": "清蒸鲈鱼"
+  },
+  {
+    "dish_id": "dish_4387af27cb005d9b83030fd6ba5d956a",
+    "recipe_id": "recipe_474cc12a7af9508080ac7050a3e4df66",
+    "recipe_version": "rv_cf7992f046d2e265684f740f",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/白灼虾/白灼虾.md",
+    "state": "development",
+    "title": "白灼虾"
+  },
+  {
+    "dish_id": "dish_631849d81cd85d7c93e52f1bac3293d4",
+    "recipe_id": "recipe_82d136e977955757a31e6b4d69e29a36",
+    "recipe_version": "rv_8cf65efcd8bdfdda298ac910",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+    "state": "draft",
+    "title": "糖醋鲤鱼"
+  },
+  {
+    "dish_id": "dish_a8600f77f2d45b808dbf6a44d0e966e4",
+    "recipe_id": "recipe_2ebd51f459b05ba2a113a606d379ddb6",
+    "recipe_version": "rv_0d5a0b02ac098f10c92d63be",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/红烧鱼.md",
+    "state": "development",
+    "title": "红烧鱼"
+  },
+  {
+    "dish_id": "dish_cfd9aeee23d1560291d4f630e7ab982d",
+    "recipe_id": "recipe_e2fec09a55f25cc3bb1d1879793db71e",
+    "recipe_version": "rv_701c0afe450ac50521796ce9",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/红烧鱼头.md",
+    "state": "draft",
+    "title": "红烧鱼头"
+  },
+  {
+    "dish_id": "dish_f28284300ddc5f65a4aa67807c8abebe",
+    "recipe_id": "recipe_c30888b52cb65dde9e13a88da97c2972",
+    "recipe_version": "rv_bb040f30b25ba2614c0b6edf",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/红烧鲤鱼.md",
+    "state": "draft",
+    "title": "红烧鲤鱼"
+  },
+  {
+    "dish_id": "dish_4833387b18615fcc86ddbe7880913571",
+    "recipe_id": "recipe_cabf89f957e0540dae5c6eb164973289",
+    "recipe_version": "rv_874e67c870aebd1f6a1aba18",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/肉蟹煲.md",
+    "state": "draft",
+    "title": "肉蟹煲"
+  },
+  {
+    "dish_id": "dish_4e56b126c7f65dbfbe0289455a16c994",
+    "recipe_id": "recipe_d077553e0d9050999991ff415fde51e4",
+    "recipe_version": "rv_c41d55fc19d7cab0c5d12856",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+    "state": "draft",
+    "title": "芥末黄油罗氏虾"
+  },
+  {
+    "dish_id": "dish_e9527601f165548ea0f236c0fe6329ff",
+    "recipe_id": "recipe_6b3c9ca44cd457dabe676341a80b1210",
+    "recipe_version": "rv_5eb5561b6b0f934f5fa350e5",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+    "state": "draft",
+    "title": "葱油桂鱼"
+  },
+  {
+    "dish_id": "dish_a05301aa025e50c4b491fd37c3aba49c",
+    "recipe_id": "recipe_e76fa036d6d65447927b283ba380cb02",
+    "recipe_version": "rv_d0109a9069b36564c81fa96d",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/葱烧海参/葱烧海参.md",
+    "state": "draft",
+    "title": "葱烧海参"
+  },
+  {
+    "dish_id": "dish_e595e0ca018c5b1cae18dc27fae3aadf",
+    "recipe_id": "recipe_1a9c854cf92c599996664d2400ec13cf",
+    "recipe_version": "rv_9ece33c8c8699af16cb05c94",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
+    "state": "draft",
+    "title": "蒜蓉虾"
+  },
+  {
+    "dish_id": "dish_682619eb05b8546d8938e71aa5e233b6",
+    "recipe_id": "recipe_a84f46c906b25897ba0ff68a3a2e9f44",
+    "recipe_version": "rv_8fd2fdcf1383d5f1f88617cb",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/蒜香黄油虾/蒜香黄油虾.md",
+    "state": "draft",
+    "title": "蒜香黄油虾"
+  },
+  {
+    "dish_id": "dish_ffa9bc0e4eb8553f9cf0261094677eb0",
+    "recipe_id": "recipe_74902688bb5a5a93849ee401d4572b88",
+    "recipe_version": "rv_98199778265a0c72a0fb7c11",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
+    "state": "draft",
+    "title": "蛏抱蛋"
+  },
+  {
+    "dish_id": "dish_881beacaf9065d35b4c7a663f87167c7",
+    "recipe_id": "recipe_bf74b3ddaa9759c8a08d1df9ed43b371",
+    "recipe_version": "rv_9a04e2e0e639834adeb09c79",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/酱炖蟹.md",
+    "state": "draft",
+    "title": "酱炖蟹"
+  },
+  {
+    "dish_id": "dish_e826bdec23c8517db0b46fa9c030cd11",
+    "recipe_id": "recipe_a56c8e266ef25de38a56c3c6977bf03d",
+    "recipe_version": "rv_8d8510d7a38baf398f9131e6",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/阳朔啤酒鱼/阳朔啤酒鱼.md",
+    "state": "draft",
+    "title": "阳朔啤酒鱼"
+  },
+  {
+    "dish_id": "dish_2064bcbc649554aea808d84f12c965e7",
+    "recipe_id": "recipe_7fc845a52d7d5abfa20fd7c6021b8f37",
+    "recipe_version": "rv_ddf74248bbb752e1dc84cfc1",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
+    "state": "draft",
+    "title": "香煎翘嘴鱼"
+  },
+  {
+    "dish_id": "dish_0aefc3687679597e9915d76f57651ff8",
+    "recipe_id": "recipe_647a46ef95825dfcbed3311b74f480b4",
+    "recipe_version": "rv_ee8ef4f15d18a5a805b7f26d",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+    "state": "draft",
+    "title": "鲤鱼炖白菜"
+  },
+  {
+    "dish_id": "dish_bd6d3904ff89506cb408c2cbb3351a8d",
+    "recipe_id": "recipe_46d93f0d2e5459e1b50e143d9104244f",
+    "recipe_version": "rv_b4c5e6e1ef15e0fdca2711fa",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+    "state": "draft",
+    "title": "鳊鱼炖豆腐"
+  },
+  {
+    "dish_id": "dish_a4854e23081b5a1289723f12b02e6085",
+    "recipe_id": "recipe_009733e925945dd999ffb3719339c895",
+    "recipe_version": "rv_e33bf0293b2cd2e6d835fb97",
+    "source_category": "aquatic",
+    "source_path": "dishes/aquatic/黄油煎虾/黄油煎虾.md",
+    "state": "draft",
+    "title": "黄油煎虾"
+  },
+  {
+    "dish_id": "dish_41c3bc88013e5bfd8209cace407176f8",
+    "recipe_id": "recipe_add0b2726748597bb3c04ab210a0731b",
+    "recipe_version": "rv_d872c70df3f3048eaacea7de",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/吐司果酱.md",
+    "state": "draft",
+    "title": "吐司果酱"
+  },
+  {
+    "dish_id": "dish_5ad34fe4cccb5410a4f1bee0f2424f2e",
+    "recipe_id": "recipe_5087a01cb0b35a65b165ed0149fbd107",
+    "recipe_version": "rv_f7c5bd791545bef2539297bc",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/太阳蛋.md",
+    "state": "development",
+    "title": "太阳蛋"
+  },
+  {
+    "dish_id": "dish_101f2fca44b35f4ab0509c8d5e7c2c60",
+    "recipe_id": "recipe_81c9d588c731575cacfb80f6fb329c19",
+    "recipe_version": "rv_c1f95e9f73f9c93b2973e4d6",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/完美水煮蛋.md",
+    "state": "draft",
+    "title": "完美水煮蛋"
+  },
+  {
+    "dish_id": "dish_3576fe7d9ba5518d970a84b83f7835dd",
+    "recipe_id": "recipe_1868a2c292f65b218e6f458256b7a5ef",
+    "recipe_version": "rv_736b82ce51e44175a31d65aa",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/微波炉荷包蛋.md",
+    "state": "draft",
+    "title": "微波炉荷包蛋"
+  },
+  {
+    "dish_id": "dish_98c12aa93fc056c98e4b19b76e8b731d",
+    "recipe_id": "recipe_f83e3a608686519483b9b658fa5b0ee4",
+    "recipe_version": "rv_fba1c18b85d54d220ab43183",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/微波炉蒸蛋.md",
+    "state": "draft",
+    "title": "微波炉蒸蛋"
+  },
+  {
+    "dish_id": "dish_923d0d41f3f15335a08df743bf83009b",
+    "recipe_id": "recipe_10fdd810fca65f53ad1640905df6d81b",
+    "recipe_version": "rv_f5d376fc5bf3ea0a4be37f3a",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/微波炉蛋糕.md",
+    "state": "draft",
+    "title": "微波炉蛋糕"
+  },
+  {
+    "dish_id": "dish_a15cf1fc79c956698ef339ca6e475a85",
+    "recipe_id": "recipe_27deba3ce22e5fa7bb55ac010cac6059",
+    "recipe_version": "rv_1605a92b88c9a285a04a688a",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/意式香肠北非蛋.md",
+    "state": "draft",
+    "title": "意式香肠北非蛋"
+  },
+  {
+    "dish_id": "dish_5b87f1bee07f51e2b5d8f9f8ef618fba",
+    "recipe_id": "recipe_57c99a4ca22354ccb70200e8896b32fd",
+    "recipe_version": "rv_48b41d8906c82464d7a8e781",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/手抓饼.md",
+    "state": "draft",
+    "title": "手抓饼"
+  },
+  {
+    "dish_id": "dish_128d596ea7dc557f927eeb0fbd3949a3",
+    "recipe_id": "recipe_a8cb4f1c30af5e99869a3a2731723b5f",
+    "recipe_version": "rv_4e59f61ac902a3f37a701662",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/桂圆红枣粥.md",
+    "state": "draft",
+    "title": "桂圆红枣粥"
+  },
+  {
+    "dish_id": "dish_86af20ace9295dc49be033c0dc954766",
+    "recipe_id": "recipe_3418ec539fd15d68b140a7d83107f0f9",
+    "recipe_version": "rv_8fa9a7057d50e404185b7bb1",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/水煮玉米.md",
+    "state": "draft",
+    "title": "水煮玉米"
+  },
+  {
+    "dish_id": "dish_a9af2f36e0d85cdb9f5ac95a7633a01e",
+    "recipe_id": "recipe_747df006b6f3500c8d9d38ee48181b73",
+    "recipe_version": "rv_2f03cb5720f347264ba56d2f",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/温泉蛋/温泉蛋.md",
+    "state": "draft",
+    "title": "温泉蛋"
+  },
+  {
+    "dish_id": "dish_afe92bae7fd553f599a2498578713f7f",
+    "recipe_id": "recipe_abd683ad75295f6992142576d58453a7",
+    "recipe_version": "rv_8cf1d099fee2eaffc5832006",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/溏心蛋.md",
+    "state": "draft",
+    "title": "溏心蛋"
+  },
+  {
+    "dish_id": "dish_0178dcdd12b8573da32c3a87c4293667",
+    "recipe_id": "recipe_7a612ecc58425ecf8927cee203aa05c2",
+    "recipe_version": "rv_c276aa724a3a00398f91dd0c",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/煎饺.md",
+    "state": "draft",
+    "title": "煎饺"
+  },
+  {
+    "dish_id": "dish_109b6efc39b95a21ad1d5573d3e52d86",
+    "recipe_id": "recipe_00b6cca656ff5d74ae25fb2d418eec8a",
+    "recipe_version": "rv_6ea7b0bf001957ab698164c3",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/燕麦鸡蛋饼.md",
+    "state": "draft",
+    "title": "燕麦鸡蛋饼"
+  },
+  {
+    "dish_id": "dish_cf949438d17852b0b6136a062630a37c",
+    "recipe_id": "recipe_7a9beb519c305022bb9ef6fe54698a11",
+    "recipe_version": "rv_4473808c27a1782e9f93243f",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/牛奶燕麦.md",
+    "state": "draft",
+    "title": "牛奶燕麦"
+  },
+  {
+    "dish_id": "dish_4c0e92dbac6d54139ee9083e365509b7",
+    "recipe_id": "recipe_e250e56de8425bbdaac7767ed07089d3",
+    "recipe_version": "rv_daaf75cf12cd79d8b20f3375",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/空气炸锅面包片.md",
+    "state": "draft",
+    "title": "空气炸锅面包片"
+  },
+  {
+    "dish_id": "dish_d8fd2888c83450a7964f4f04c2a3a89b",
+    "recipe_id": "recipe_3a6358d4a291502f940808e60bdea846",
+    "recipe_version": "rv_86a86609ed763564cdb1ad4d",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/美式炒蛋.md",
+    "state": "draft",
+    "title": "美式炒蛋"
+  },
+  {
+    "dish_id": "dish_b1b87a19f9b553928f9d69686ad80413",
+    "recipe_id": "recipe_c64363a8b10159108efc14b14b21afd0",
+    "recipe_version": "rv_96fafcaf84fca57c4317dcfe",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
+    "state": "draft",
+    "title": "苏格兰蛋"
+  },
+  {
+    "dish_id": "dish_aeb6be611af9536b87fea7c18d7b16ca",
+    "recipe_id": "recipe_25f3425a39ce582fbad9ba40dffac19c",
+    "recipe_version": "rv_91c2ab39f85b28de4095d0b5",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/茶叶蛋.md",
+    "state": "development",
+    "title": "茶叶蛋"
+  },
+  {
+    "dish_id": "dish_e64cced6c19f5be09296448830e24767",
+    "recipe_id": "recipe_4dbbc23b03055b7182cd4b0d84bfac42",
+    "recipe_version": "rv_81de9b8532e94e12aea4696c",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/蒸水蛋.md",
+    "state": "draft",
+    "title": "蒸水蛋"
+  },
+  {
+    "dish_id": "dish_dae469f9569252a6b044881ab296c1df",
+    "recipe_id": "recipe_ae7a2737974a5121b3a045b11672fcc0",
+    "recipe_version": "rv_6febeec74f0772e41473f2e6",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/蒸花卷.md",
+    "state": "draft",
+    "title": "蒸花卷"
+  },
+  {
+    "dish_id": "dish_8c382db2a5885747ad9cd3777411470a",
+    "recipe_id": "recipe_7197e1bc0fcf5f24b1f1a40a06266423",
+    "recipe_version": "rv_b077ca5fee568eef371a849d",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/蛋煎糍粑.md",
+    "state": "draft",
+    "title": "蛋煎糍粑"
+  },
+  {
+    "dish_id": "dish_17b16852645a5ef0a9b415dcdb8175ee",
+    "recipe_id": "recipe_49d8cf8571275ab99e1d44c71e7ad8cb",
+    "recipe_version": "rv_581a468d994e83e19850e22e",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/金枪鱼酱三明治.md",
+    "state": "draft",
+    "title": "金枪鱼酱三明治"
+  },
+  {
+    "dish_id": "dish_9294757b395757cab16e3cf81aaf551e",
+    "recipe_id": "recipe_888d176f36e053feb759135226ec4d6d",
+    "recipe_version": "rv_45dc12034b764638ecc8dced",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/韩国麻药鸡蛋.md",
+    "state": "draft",
+    "title": "韩国麻药鸡蛋"
+  },
+  {
+    "dish_id": "dish_f1a77fd83568596fbd79a273730c8e38",
+    "recipe_id": "recipe_f1b262253689563eb05af75962d53215",
+    "recipe_version": "rv_7123941a76aa73d4aab11096",
+    "source_category": "breakfast",
+    "source_path": "dishes/breakfast/鸡蛋三明治.md",
+    "state": "draft",
+    "title": "鸡蛋三明治"
+  },
+  {
+    "dish_id": "dish_55c0b6003b6c5f79811d2b5623cd8b4c",
+    "recipe_id": "recipe_74236bd5f4f252bcbb9a13052da1e5c4",
+    "recipe_version": "rv_af5eff26ebfc64d3212aba84",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/油泼辣子/油泼辣子.md",
+    "state": "draft",
+    "title": "油泼辣子"
+  },
+  {
+    "dish_id": "dish_4da38c59b9a8507ca18dcb09d90b2328",
+    "recipe_id": "recipe_6e853f9ec7975899be249a206cb58484",
+    "recipe_version": "rv_13c5f0d641f29138db7be1b3",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/油酥.md",
+    "state": "draft",
+    "title": "油酥"
+  },
+  {
+    "dish_id": "dish_700b51ac1ad75055bc19bd66935adb62",
+    "recipe_id": "recipe_f0a5e3bce0715f4f8921f26f26f605d4",
+    "recipe_version": "rv_66629dc42a244ed26b4ca520",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/炸串酱料.md",
+    "state": "draft",
+    "title": "炸串酱料"
+  },
+  {
+    "dish_id": "dish_d4043131fc4d5dbfb1cd343bed354c7d",
+    "recipe_id": "recipe_7c50dca74eb15651822c162eb22bc27d",
+    "recipe_version": "rv_8d1d8734ea298f8b3e5c6dd2",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/简易版炒糖色.md",
+    "state": "draft",
+    "title": "简易版炒糖色"
+  },
+  {
+    "dish_id": "dish_9eab6ccd849e5c0ea86502e27dab1ddd",
+    "recipe_id": "recipe_506c661fbe5451cbaafed29813c8832d",
+    "recipe_version": "rv_c7f7359a481fa7a8187e1b3a",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/糖醋汁.md",
+    "state": "draft",
+    "title": "糖醋汁"
+  },
+  {
+    "dish_id": "dish_0cd100dd10355cf184fdae8c2da19843",
+    "recipe_id": "recipe_4630bf41d11e52ba9744ec5f75066c5c",
+    "recipe_version": "rv_772417f1fd549e24d5065754",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/草莓酱/草莓酱.md",
+    "state": "draft",
+    "title": "草莓酱"
+  },
+  {
+    "dish_id": "dish_d04ff70a183f5e3bb9ad8cc2bd22e4e0",
+    "recipe_id": "recipe_0a97c55a91995fd38a19190ea050db16",
+    "recipe_version": "rv_462aa5964efb6184b86d2360",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/葱油.md",
+    "state": "draft",
+    "title": "葱油"
+  },
+  {
+    "dish_id": "dish_d891833f232b5b7393de0b9a5009d968",
+    "recipe_id": "recipe_774e9f9ef1485e52ad8503a69daef451",
+    "recipe_version": "rv_a034c3a77aacfac5087e4ef2",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/蒜香酱油.md",
+    "state": "draft",
+    "title": "蒜香酱油"
+  },
+  {
+    "dish_id": "dish_56ea18a7cace5c70af89830165a98ac9",
+    "recipe_id": "recipe_4ba05feee440552a95373e5d454b1138",
+    "recipe_version": "rv_1907b263ff9993248ab73f7d",
+    "source_category": "condiment",
+    "source_path": "dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
+    "state": "draft",
+    "title": "蔗糖糖浆"
+  },
+  {
+    "dish_id": "dish_de9847b34879503e835468acc0cab942",
+    "recipe_id": "recipe_1b29aa9b066c5239bcd361846e321270",
+    "recipe_version": "rv_1c8238fbea971afc6c4f5895",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/反沙芋头/反沙芋头.md",
+    "state": "draft",
+    "title": "反沙芋头"
+  },
+  {
+    "dish_id": "dish_1892fd857899589ab01c3d175c7421a9",
+    "recipe_id": "recipe_613f6e29024b5f639fb40693ac57d84f",
+    "recipe_version": "rv_574f8a7e8d1c8865ea87b303",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md",
+    "state": "draft",
+    "title": "咖啡椰奶冻"
+  },
+  {
+    "dish_id": "dish_c3404312816d5157b8a65d97163a6607",
+    "recipe_id": "recipe_8be860bb94e75f06a6819bd30a48ad42",
+    "recipe_version": "rv_24a56509b9be7cc1525a43db",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
+    "state": "draft",
+    "title": "奥利奥冰淇淋"
+  },
+  {
+    "dish_id": "dish_7b4810b37a7e526c8d4540e837105c73",
+    "recipe_id": "recipe_61373c133cfa57f38feca355959e6baf",
+    "recipe_version": "rv_36acd41ad8eb7637e05f8776",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/戚风蛋糕/戚风蛋糕.md",
+    "state": "draft",
+    "title": "戚风蛋糕"
+  },
+  {
+    "dish_id": "dish_a80725d3fd1a5ebda61ff4866a7a7d4a",
+    "recipe_id": "recipe_cbc8448019f95d57ba11c797ba17c6a1",
+    "recipe_version": "rv_74874bbf41f865dd10528ed0",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/提拉米苏/提拉米苏.md",
+    "state": "draft",
+    "title": "提拉米苏"
+  },
+  {
+    "dish_id": "dish_66af9d74882f5d989466fb0a84c53c28",
+    "recipe_id": "recipe_a76b9b59851851708111a6ea2cc7a296",
+    "recipe_version": "rv_880929edb689ab7648974516",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/无厨师机蜂蜜面包/无厨师机蜂蜜面包.md",
+    "state": "draft",
+    "title": "无厨师机蜂蜜面包"
+  },
+  {
+    "dish_id": "dish_446e453987755200825d8e1cb3d83c5d",
+    "recipe_id": "recipe_f1f4d44c359258939eb3ac74d3d263e7",
+    "recipe_version": "rv_c6823b79e1a9c860aa2db892",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/炸鲜奶/炸鲜奶.md",
+    "state": "draft",
+    "title": "炸鲜奶"
+  },
+  {
+    "dish_id": "dish_8d54a76ea87e5fe0a59ef994803e88f5",
+    "recipe_id": "recipe_399c6e3f0fe35ea0b83bfe7d27a6383a",
+    "recipe_version": "rv_c6b3334bcddec5368e67af88",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/烤箱版巴斯克芝士蛋糕/烤箱版巴斯克芝士蛋糕.md",
+    "state": "draft",
+    "title": "烤箱版巴斯克芝士蛋糕"
+  },
+  {
+    "dish_id": "dish_b59522f6e59653b390c778d45d7e6526",
+    "recipe_id": "recipe_4c8c1c9f081f569297f511eb4a22e269",
+    "recipe_version": "rv_4dda7e4c1bf96b3daa138108",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/烤蛋挞/烤蛋挞.md",
+    "state": "draft",
+    "title": "烤蛋挞"
+  },
+  {
+    "dish_id": "dish_a43207119e375e2889310862618f5858",
+    "recipe_id": "recipe_280b38fe1df65c6ea050838e20e276de",
+    "recipe_version": "rv_ad9e885db8667fa45061a315",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/玛格丽特饼干/玛格丽特饼干.md",
+    "state": "draft",
+    "title": "玛格丽特饼干"
+  },
+  {
+    "dish_id": "dish_b3a01674f5d45ceaa383bf6e40331c5a",
+    "recipe_id": "recipe_0a4246bd44595527b121651e5631fb59",
+    "recipe_version": "rv_ecc24e8dda18845c711025cb",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/红柚蛋糕/红柚蛋糕.md",
+    "state": "draft",
+    "title": "红柚蛋糕"
+  },
+  {
+    "dish_id": "dish_f56f7e161e6d5b469ee1937e6c52d5e0",
+    "recipe_id": "recipe_c02e3f922c0653669db6d5a269f6dd85",
+    "recipe_version": "rv_2ca93c87ccb8bd8e228428da",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/胡萝卜甜糕.md",
+    "state": "draft",
+    "title": "胡萝卜甜糕"
+  },
+  {
+    "dish_id": "dish_2f103bbbd2275f28b437b1102e1de3f6",
+    "recipe_id": "recipe_fbe07c6ade165edc86e55102cd5aaed9",
+    "recipe_version": "rv_7a51d9d0ffeec122720dce20",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md",
+    "state": "draft",
+    "title": "芋泥雪媚娘"
+  },
+  {
+    "dish_id": "dish_5c23c20200a1599bb6e0a0940ee88e52",
+    "recipe_id": "recipe_105523cc179f5d739534fa6e9514c004",
+    "recipe_version": "rv_075d029f16c6c81cea317d02",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/英式司康/英式司康.md",
+    "state": "draft",
+    "title": "英式司康"
+  },
+  {
+    "dish_id": "dish_8c48d93bedfa549eba4a6b5b61dde872",
+    "recipe_id": "recipe_3ade02c37b6d5bb9a8be63c839aaa19e",
+    "recipe_version": "rv_cfa400654c438cf4a2d4fdbb",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/草莓冰淇淋/草莓冰淇淋.md",
+    "state": "draft",
+    "title": "草莓冰淇淋"
+  },
+  {
+    "dish_id": "dish_59d9e0e21e965d7a8ea6af76abddb1e4",
+    "recipe_id": "recipe_7bfa613f603f5e83834a6b61d331b716",
+    "recipe_version": "rv_df0b52fd5661de3a7f24713b",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md",
+    "state": "draft",
+    "title": "酸奶意式奶冻"
+  },
+  {
+    "dish_id": "dish_e5a05701cb165e24ac35ab5272aaf06d",
+    "recipe_id": "recipe_54da7c86a8a05c14a46b085f8e0dfca1",
+    "recipe_version": "rv_b1f0db92f36aae28ead127dd",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/雪花酥/雪花酥.md",
+    "state": "draft",
+    "title": "雪花酥"
+  },
+  {
+    "dish_id": "dish_b90caac471f556e2a959fe0e3cdac104",
+    "recipe_id": "recipe_b52082e22669535b8fb5fe915e1b7a79",
+    "recipe_version": "rv_33902aa01a76d4ca013bc797",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/魔芋蛋糕/魔芋蛋糕.md",
+    "state": "draft",
+    "title": "魔芋蛋糕"
+  },
+  {
+    "dish_id": "dish_fdd8a9abdaaa5a75978c676094ebc3bd",
+    "recipe_id": "recipe_0a80a7415b9d52dfb8a050ababf32734",
+    "recipe_version": "rv_4935238c4ce2a2b26cb0a39c",
+    "source_category": "dessert",
+    "source_path": "dishes/dessert/龟苓膏/龟苓膏.md",
+    "state": "draft",
+    "title": "龟苓膏"
+  },
+  {
+    "dish_id": "dish_70a34351b02d58b1b3019d1028477e00",
+    "recipe_id": "recipe_002a409f158c56ea850d26b10c598725",
+    "recipe_version": "rv_05db1be4f1428b66fea92aba",
+    "source_category": "drink",
+    "source_path": "dishes/drink/B52轰炸机.md",
+    "state": "draft",
+    "title": "B52轰炸机"
+  },
+  {
+    "dish_id": "dish_9031dfd982c957698cbb0334518bec0a",
+    "recipe_id": "recipe_c90192e5ad3557adaf1ab5c0aaaa0a00",
+    "recipe_version": "rv_2b7f7cea5015b6c54efb4243",
+    "source_category": "drink",
+    "source_path": "dishes/drink/Mojito莫吉托.md",
+    "state": "draft",
+    "title": "Mojito莫吉托"
+  },
+  {
+    "dish_id": "dish_48b281d40d3d5a939a9e41e65e8db980",
+    "recipe_id": "recipe_954fc32c54ec5c6db06904041b8d5c1a",
+    "recipe_version": "rv_34f0b2c799d9a805e44eb9ad",
+    "source_category": "drink",
+    "source_path": "dishes/drink/冬瓜茶.md",
+    "state": "draft",
+    "title": "冬瓜茶"
+  },
+  {
+    "dish_id": "dish_3e42af9909655e138253b7245d68bf62",
+    "recipe_id": "recipe_369cf77bf8ec5e1198650bfa73a50413",
+    "recipe_version": "rv_0c8f2c9bafcfd50dfcbd0e6b",
+    "source_category": "drink",
+    "source_path": "dishes/drink/冰粉/冰粉.md",
+    "state": "draft",
+    "title": "冰粉"
+  },
+  {
+    "dish_id": "dish_3a5c7ac9246a52379600259a24e0800f",
+    "recipe_id": "recipe_89be50389d095bf59aaadb002b936eb6",
+    "recipe_version": "rv_f0b6a36ece245c1d4214da68",
+    "source_category": "drink",
+    "source_path": "dishes/drink/印度奶茶.md",
+    "state": "draft",
+    "title": "印度奶茶"
+  },
+  {
+    "dish_id": "dish_87ef81af452556acbfc7cb58c9bcd9ad",
+    "recipe_id": "recipe_db18a34e26d25e68a59ad268fdca7494",
+    "recipe_version": "rv_69b571adb9b87e151deb4983",
+    "source_category": "drink",
+    "source_path": "dishes/drink/可乐桶.md",
+    "state": "draft",
+    "title": "可乐桶"
+  },
+  {
+    "dish_id": "dish_c74f591dc51d52248901453c057b4346",
+    "recipe_id": "recipe_08d63ae1355d53e2997d504cad8f1853",
+    "recipe_version": "rv_5772a2caebbd390103a92cdb",
+    "source_category": "drink",
+    "source_path": "dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
+    "state": "draft",
+    "title": "奇异果菠菜特调"
+  },
+  {
+    "dish_id": "dish_3e13c91fcbb358f28618459053515b0b",
+    "recipe_id": "recipe_ea8842bce5c6552ebdcab4ffbdb96ae4",
+    "recipe_version": "rv_fd445d84a95d06540eaaa101",
+    "source_category": "drink",
+    "source_path": "dishes/drink/奶茶.md",
+    "state": "draft",
+    "title": "奶茶"
+  },
+  {
+    "dish_id": "dish_f36620d38f2e5b3ea59940c6047faf1d",
+    "recipe_id": "recipe_2eab480e7ce3515b8448336fd04a0ccd",
+    "recipe_version": "rv_cdd678bab872249d30dbac04",
+    "source_category": "drink",
+    "source_path": "dishes/drink/杨枝甘露.md",
+    "state": "draft",
+    "title": "杨枝甘露"
+  },
+  {
+    "dish_id": "dish_90a0cf8a075b51ddb29cb2fd450bdd89",
+    "recipe_id": "recipe_bce9884189a455bf94ef2a474d9fa99f",
+    "recipe_version": "rv_e16b7829eb44df87c5557655",
+    "source_category": "drink",
+    "source_path": "dishes/drink/柠檬水/柠檬水.md",
+    "state": "draft",
+    "title": "柠檬水"
+  },
+  {
+    "dish_id": "dish_3351249acc1c5120a9fa58a52b9eeb02",
+    "recipe_id": "recipe_96642332c294563fa6e8942f7b96a30d",
+    "recipe_version": "rv_b7f17290353e079cdc0173b9",
+    "source_category": "drink",
+    "source_path": "dishes/drink/泰国手标红茶/泰国手标红茶.md",
+    "state": "draft",
+    "title": "泰国手标红茶"
+  },
+  {
+    "dish_id": "dish_679b863d962d5d26a9525ca20569a464",
+    "recipe_id": "recipe_35f220c7da9755e5b1b7c26f5a737a85",
+    "recipe_version": "rv_0c4df9f61a9a03562371c6cc",
+    "source_category": "drink",
+    "source_path": "dishes/drink/海边落日/海边落日.md",
+    "state": "draft",
+    "title": "海边落日"
+  },
+  {
+    "dish_id": "dish_9b96efb13bc155f79c216fdb55a557c6",
+    "recipe_id": "recipe_5e68f5a4b14f5e1391a15db7ea945326",
+    "recipe_version": "rv_bd20c517f57c30f79273e3b6",
+    "source_category": "drink",
+    "source_path": "dishes/drink/牛油果拉西.md",
+    "state": "draft",
+    "title": "牛油果拉西"
+  },
+  {
+    "dish_id": "dish_77d8a31d52395d29928ccc8f0dcca0ee",
+    "recipe_id": "recipe_8f59817a7eb7537398220b09a554f6a0",
+    "recipe_version": "rv_513a034d5be870161b82cd48",
+    "source_category": "drink",
+    "source_path": "dishes/drink/百香果橙子特调/百香果橙子特调.md",
+    "state": "draft",
+    "title": "百香果橙子特调"
+  },
+  {
+    "dish_id": "dish_f2d0b6abb09c5a95aebb064abcb45701",
+    "recipe_id": "recipe_15b694e735ae56e9a22152ca6f79b6c2",
+    "recipe_version": "rv_1a551c50a0e4dceb06525294",
+    "source_category": "drink",
+    "source_path": "dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md",
+    "state": "draft",
+    "title": "砂糖椰子冰沙"
+  },
+  {
+    "dish_id": "dish_9718f4451e7c5e8cb5e3ffee23436b71",
+    "recipe_id": "recipe_e332de67225d59bbae9179228c3b7774",
+    "recipe_version": "rv_06c81d784d9c8e44657047cb",
+    "source_category": "drink",
+    "source_path": "dishes/drink/耙耙柑茶/耙耙柑茶.md",
+    "state": "draft",
+    "title": "耙耙柑茶"
+  },
+  {
+    "dish_id": "dish_7687673df9335bdfb5818d12139722e3",
+    "recipe_id": "recipe_32d7922ca3ca5295beaebfd013814db3",
+    "recipe_version": "rv_1c0185af6decb20f2e628b9d",
+    "source_category": "drink",
+    "source_path": "dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md",
+    "state": "draft",
+    "title": "菠萝咖啡特调"
+  },
+  {
+    "dish_id": "dish_011a41ca417a517ea1aeeb40af458075",
+    "recipe_id": "recipe_d26f6dcaca8851e0b813901798e203ce",
+    "recipe_version": "rv_ae08ed97f9f4480e51854164",
+    "source_category": "drink",
+    "source_path": "dishes/drink/酒酿醪糟/酒酿醪糟.md",
+    "state": "draft",
+    "title": "酒酿醪糟"
+  },
+  {
+    "dish_id": "dish_47e01a0e4dab5e48909d81bbcd41a1bb",
+    "recipe_id": "recipe_56379a1c4a0c5be5947ca3f2356e23dc",
+    "recipe_version": "rv_0d9c52034d7ad5a9b039a7a3",
+    "source_category": "drink",
+    "source_path": "dishes/drink/酸梅汤/酸梅汤.md",
+    "state": "draft",
+    "title": "酸梅汤"
+  },
+  {
+    "dish_id": "dish_7dcfe12450db58499d11146c3b6455b5",
+    "recipe_id": "recipe_b459ec4a7d625950974e71b44fa7beb8",
+    "recipe_version": "rv_cfcd7114b8090648e25d5055",
+    "source_category": "drink",
+    "source_path": "dishes/drink/酸梅汤（半成品加工）.md",
+    "state": "draft",
+    "title": "酸梅汤（半成品加工）"
+  },
+  {
+    "dish_id": "dish_9734cff253265acf8812e27a022f7f87",
+    "recipe_id": "recipe_963cadaa618b5b87a420e8df7a039d9a",
+    "recipe_version": "rv_c908c6b95c5adb0e260846ce",
+    "source_category": "drink",
+    "source_path": "dishes/drink/金汤力/金汤力.md",
+    "state": "draft",
+    "title": "金汤力"
+  },
+  {
+    "dish_id": "dish_e801382589f25901b8a77e3c77d87f8a",
+    "recipe_id": "recipe_9b55c91984ab5726b28587d91ce75d6c",
+    "recipe_version": "rv_6eb34b334446d49456a75108",
+    "source_category": "drink",
+    "source_path": "dishes/drink/金菲士/金菲士.md",
+    "state": "draft",
+    "title": "金菲士"
+  },
+  {
+    "dish_id": "dish_c6b6b10fdcb25200ba93669f1476a14f",
+    "recipe_id": "recipe_ef7d73266db051fba62960e72ccc76e6",
+    "recipe_version": "rv_8387d70d9a7bf564d677aa30",
+    "source_category": "drink",
+    "source_path": "dishes/drink/长岛冰茶.md",
+    "state": "draft",
+    "title": "长岛冰茶"
+  },
+  {
+    "dish_id": "dish_bde4c044f8075466861cf720e0b859fa",
+    "recipe_id": "recipe_1ebc346eab2253798f6a0b3a3c9e7631",
+    "recipe_version": "rv_e96204a7c7780a47ef3daa83",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/乡村啤酒鸭.md",
+    "state": "draft",
+    "title": "乡村啤酒鸭"
+  },
+  {
+    "dish_id": "dish_439364a5296c5ba5ba3fb7dab581360b",
+    "recipe_id": "recipe_aa1c4c9684a85319b5c07e5c1c0e71b3",
+    "recipe_version": "rv_127fbcbf9d0b222a3344f69a",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/农家一碗香/农家一碗香.md",
+    "state": "draft",
+    "title": "农家一碗香"
+  },
+  {
+    "dish_id": "dish_c4d91be60e0a578688f8a2d7d11774df",
+    "recipe_id": "recipe_764fe2df4dbb5684a25e5c712b7034d4",
+    "recipe_version": "rv_4b6d66b22d1aeb7c177a4fd4",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/冬瓜桑拿鸡.md",
+    "state": "draft",
+    "title": "冬瓜桑拿鸡"
+  },
+  {
+    "dish_id": "dish_8b744eee0b325d9eac99b6ad79843d24",
+    "recipe_id": "recipe_d5a3bbca8c005b9c930cf0da393f40c2",
+    "recipe_version": "rv_165e2f7b9f8d72ec21405144",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
+    "state": "draft",
+    "title": "冬瓜酿肉"
+  },
+  {
+    "dish_id": "dish_b8d8bebf135551c88e4e5f888edc9891",
+    "recipe_id": "recipe_aeee9871034058be805d1ac7893fa3c6",
+    "recipe_version": "rv_72f3b7a624b22a5291d0d454",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/冷吃兔.md",
+    "state": "draft",
+    "title": "冷吃兔"
+  },
+  {
+    "dish_id": "dish_dbcd2726b46f5d2784f1d9c6aa05fd71",
+    "recipe_id": "recipe_81b31b01d86d5f97817b620b93b79799",
+    "recipe_version": "rv_ef62dc81ae466986734528d1",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+    "state": "draft",
+    "title": "凉拌鸡丝"
+  },
+  {
+    "dish_id": "dish_78db209c8d2453c2991b0b853792b13d",
+    "recipe_id": "recipe_a21dd90f24365d2f9cb6267fbdb0a92f",
+    "recipe_version": "rv_22c8354a280e2b656b77d36d",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/卤菜/卤菜.md",
+    "state": "development",
+    "title": "卤菜"
+  },
+  {
+    "dish_id": "dish_aa19000158875f15b8f17c7d6d0bb81d",
+    "recipe_id": "recipe_6376d8015869516bb0e8ac5156b20e3d",
+    "recipe_version": "rv_3dbed35d4274d92d9091bb2a",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/口水鸡/口水鸡.md",
+    "state": "draft",
+    "title": "口水鸡"
+  },
+  {
+    "dish_id": "dish_e6e0d6362d115a6fa83c5e9839564510",
+    "recipe_id": "recipe_2217f70bfbb65997841818aea54ee98d",
+    "recipe_version": "rv_d591c78d7c0dbf925c6ed89f",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/可乐鸡翅.md",
+    "state": "development",
+    "title": "可乐鸡翅"
+  },
+  {
+    "dish_id": "dish_2a62ba029baf5e1da0cec3d68fc2d233",
+    "recipe_id": "recipe_1a29e27a109b58c9a8fb16414b7b6ec7",
+    "recipe_version": "rv_d1cc712b27d7ef9350e4a629",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
+    "state": "draft",
+    "title": "台式卤肉饭"
+  },
+  {
+    "dish_id": "dish_b4227ca7c82e5eef90ab186b6721ac90",
+    "recipe_id": "recipe_14b8274bf0ae5b7aa9b0da2a8aeb0dbb",
+    "recipe_version": "rv_ac570f9810a4641b860b1e0e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/咕噜肉.md",
+    "state": "draft",
+    "title": "咕噜肉"
+  },
+  {
+    "dish_id": "dish_ee482c13264154259f5b808fa374143c",
+    "recipe_id": "recipe_308672edd8e359bdb436ad43dd92c925",
+    "recipe_version": "rv_ff2cc8cc2adeb81b5b5af57b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
+    "state": "draft",
+    "title": "咖喱肥牛"
+  },
+  {
+    "dish_id": "dish_b66ed98073515050bc45e0bfe99c38f4",
+    "recipe_id": "recipe_6afe4bcf7f4c5bd8aedfbf182c0abaff",
+    "recipe_version": "rv_a1dc48f65b42fa29c6f4160c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/商芝肉.md",
+    "state": "draft",
+    "title": "商芝肉"
+  },
+  {
+    "dish_id": "dish_87ebce4911485074bb34f338532aba1b",
+    "recipe_id": "recipe_f18543eef00051d3a3e55070670f0e39",
+    "recipe_version": "rv_76312bab123db6a8df9bd382",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/啤酒鸭/啤酒鸭.md",
+    "state": "draft",
+    "title": "啤酒鸭"
+  },
+  {
+    "dish_id": "dish_bc5b30b5e6d85720a2471867406effc5",
+    "recipe_id": "recipe_53e3de775d5b5848893ffb23bfee30d0",
+    "recipe_version": "rv_f454c7bc28d124572e8450aa",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/回锅肉/回锅肉.md",
+    "state": "development",
+    "title": "回锅肉"
+  },
+  {
+    "dish_id": "dish_68c8365e5bfa5900ae38791525d57f51",
+    "recipe_id": "recipe_78c7bf1589c350eebb347cb0e9c9f412",
+    "recipe_version": "rv_ef487c02ae05eeee5ee6f187",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+    "state": "draft",
+    "title": "土豆炖排骨"
+  },
+  {
+    "dish_id": "dish_dac8af4573f85caab88f42bf779ad846",
+    "recipe_id": "recipe_4f221d280d61517fbcc5b5e94911ac27",
+    "recipe_version": "rv_325e9a769d9b34562288dd40",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/奥尔良风味烤鸡腿/奥尔良风味烤鸡腿.md",
+    "state": "draft",
+    "title": "奥尔良风味烤鸡腿"
+  },
+  {
+    "dish_id": "dish_5c9febd00b025818acbf2f89172e2fc4",
+    "recipe_id": "recipe_c43dcb2bbf715b2f92754198378c065c",
+    "recipe_version": "rv_9de8ce92bf2a3f75b0f4dacc",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
+    "state": "draft",
+    "title": "奶酪培根通心粉"
+  },
+  {
+    "dish_id": "dish_da2411f179115754be17edc7e98448a5",
+    "recipe_id": "recipe_78a56ed52362552c80f64ac1b8534c7f",
+    "recipe_version": "rv_1aec59be6ec763b2780a81a7",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+    "state": "draft",
+    "title": "姜炒鸡"
+  },
+  {
+    "dish_id": "dish_a6640326ba1f5d7ab9cf84894d25dbc1",
+    "recipe_id": "recipe_21e085e9b9e859c3b1dbe3cc2f90efb5",
+    "recipe_version": "rv_11f463d24244918e74807db2",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+    "state": "draft",
+    "title": "姜葱捞鸡"
+  },
+  {
+    "dish_id": "dish_9e3001a88b7f5fcd952ef73ace49c082",
+    "recipe_id": "recipe_ca94e6493a6256bcabe9671de7abefd9",
+    "recipe_version": "rv_a264ffe1a8e7209cc4b6940e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/孜然牛肉.md",
+    "state": "draft",
+    "title": "孜然牛肉"
+  },
+  {
+    "dish_id": "dish_1523fde4cbf55dc9bf5017dc2d0093c3",
+    "recipe_id": "recipe_85ca1e5b96f55f05a46b56f30e7a377d",
+    "recipe_version": "rv_0f32259be7097763dbd7a338",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+    "state": "draft",
+    "title": "宫保鸡丁"
+  },
+  {
+    "dish_id": "dish_405f819dd90e5a54a4733cd35e0dfbe9",
+    "recipe_id": "recipe_9faf8dbd0aed59e985aa3ba90c2d0cbc",
+    "recipe_version": "rv_566910064fbe97c049bb7831",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/小炒肉.md",
+    "state": "draft",
+    "title": "小炒肉"
+  },
+  {
+    "dish_id": "dish_2cc69678ef045cc9ad99562bc36de5be",
+    "recipe_id": "recipe_fb6257155c3e55deb6a2797a24d010c3",
+    "recipe_version": "rv_6e0cca5ee79a0c9c82055c97",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+    "state": "draft",
+    "title": "小炒鸡肝"
+  },
+  {
+    "dish_id": "dish_497b2459ebda5237a7ac70c1e514c603",
+    "recipe_id": "recipe_e45d7637be5e54d8b3ecf5f16f665b6a",
+    "recipe_version": "rv_c6197c8eb4cd6f08a96a8d4a",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+    "state": "draft",
+    "title": "小炒黄牛肉"
+  },
+  {
+    "dish_id": "dish_69f075ca40d35167b9945fd4814cf448",
+    "recipe_id": "recipe_a9dfd9a1a19a5e159860f9b5851d4f3c",
+    "recipe_version": "rv_1ac0b46e8af14ba6abecd31e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/小米辣炒肉.md",
+    "state": "draft",
+    "title": "小米辣炒肉"
+  },
+  {
+    "dish_id": "dish_77c863f84b085491b14a0370800eff8e",
+    "recipe_id": "recipe_33612ffd73dd52b2ae65ff23d6e43dd6",
+    "recipe_version": "rv_7007958d15fa87baa670004b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/小酥肉.md",
+    "state": "draft",
+    "title": "小酥肉"
+  },
+  {
+    "dish_id": "dish_229dc956b7cb57769bb6e0c748243031",
+    "recipe_id": "recipe_155aa6216c0d5098a8088c1e425a7716",
+    "recipe_version": "rv_0f3a379323071434789bb449",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
+    "state": "draft",
+    "title": "尖叫牛蛙"
+  },
+  {
+    "dish_id": "dish_a0be75c76c2153ffa7c44aba5006e2f1",
+    "recipe_id": "recipe_b39193249cbc5597ab2848d21de5e8bd",
+    "recipe_version": "rv_6524c9e787e84911267c48ef",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/尖椒炒牛肉.md",
+    "state": "draft",
+    "title": "尖椒炒牛肉"
+  },
+  {
+    "dish_id": "dish_b9bcb94ac63c5238bf8f478150eba3ac",
+    "recipe_id": "recipe_2ecf88bbe4e5584b808d3c4804276421",
+    "recipe_version": "rv_38df915c1e45ae5501dec1a4",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/山西过油肉.md",
+    "state": "draft",
+    "title": "山西过油肉"
+  },
+  {
+    "dish_id": "dish_818911ecd78b56dbba0bfa2dc92e4d5f",
+    "recipe_id": "recipe_a27f8776405b5c8baac65f11dd4e327b",
+    "recipe_version": "rv_dada88bf5c327fd66e20ecdf",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱.md",
+    "state": "draft",
+    "title": "巴基斯坦牛肉咖喱"
+  },
+  {
+    "dish_id": "dish_42ceed3b1c745bf1bb643f3564f2bee7",
+    "recipe_id": "recipe_6503010be1665a4d9821f7945b39b072",
+    "recipe_version": "rv_feec860b0eb10833b889e974",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/带把肘子.md",
+    "state": "draft",
+    "title": "带把肘子"
+  },
+  {
+    "dish_id": "dish_ba9d1b42d99b50a5a70ce850b483f7b4",
+    "recipe_id": "recipe_12d59935d22052389a0c016547af5d93",
+    "recipe_version": "rv_f8fe820d293d1f95836ce227",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+    "state": "draft",
+    "title": "干煸仔鸡"
+  },
+  {
+    "dish_id": "dish_3f9a6f885c365814ad5a745b9505b7a1",
+    "recipe_id": "recipe_37580d22711e5808916a6a7950edf887",
+    "recipe_version": "rv_943eba66d698f1ac21d9478b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/广式萝卜牛腩/广式萝卜牛腩.md",
+    "state": "draft",
+    "title": "广式萝卜牛腩"
+  },
+  {
+    "dish_id": "dish_5f2b837110985e6c9acf4f7b51c55483",
+    "recipe_id": "recipe_4cbe1b32d1a45c95b34429cbb250d1b7",
+    "recipe_version": "rv_fd271a751b5033231ed10070",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+    "state": "draft",
+    "title": "徽派红烧肉"
+  },
+  {
+    "dish_id": "dish_110da94dd0ab5ea38477393929fc7e4c",
+    "recipe_id": "recipe_efbcbbe2d11556ab9e9a8438e918a8fe",
+    "recipe_version": "rv_7144a82802f98148b7087944",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/意式烤鸡.md",
+    "state": "draft",
+    "title": "意式烤鸡"
+  },
+  {
+    "dish_id": "dish_58946e69f06e591ba9c9312471f91295",
+    "recipe_id": "recipe_8f61b9c43fc750219eb961dceabfe7ca",
+    "recipe_version": "rv_d8fd1143ed792ca1e4de5df0",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+    "state": "draft",
+    "title": "新疆大盘鸡"
+  },
+  {
+    "dish_id": "dish_d911c59786d15586a9655c07d0e3446a",
+    "recipe_id": "recipe_6b854db5286b56afb1f365d75be34d43",
+    "recipe_version": "rv_408eedf854519f157393e79f",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
+    "state": "draft",
+    "title": "无骨鸡爪"
+  },
+  {
+    "dish_id": "dish_35a3a85d03fa53a1b07f9dc250bc5eba",
+    "recipe_id": "recipe_f20fd29b87ab5643b76b1bc204bc597a",
+    "recipe_version": "rv_85389b49d39bd00ae96072c2",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/杀猪菜.md",
+    "state": "draft",
+    "title": "杀猪菜"
+  },
+  {
+    "dish_id": "dish_fe7bb68df6c55f2cab45dac5aca3edb1",
+    "recipe_id": "recipe_495f40d37c5e5e47840a9f1a5be78919",
+    "recipe_version": "rv_0019e9d9998ab255fd65a15c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+    "state": "draft",
+    "title": "枝竹羊腩煲"
+  },
+  {
+    "dish_id": "dish_7b4f358526f8562aa517ebf9e9a8b7c8",
+    "recipe_id": "recipe_2902f9f614255492b39dd13701080b88",
+    "recipe_version": "rv_7bc76fa51e238badba5eb36b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+    "state": "draft",
+    "title": "柱候牛腩"
+  },
+  {
+    "dish_id": "dish_1ab5f2a6105d5c248be91c70944138fe",
+    "recipe_id": "recipe_538c268df54b55ec991e5173a3cf93e9",
+    "recipe_version": "rv_08b312c7881e9300acf624ca",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/桂林十八酿/桂林十八酿.md",
+    "state": "draft",
+    "title": "桂林十八酿"
+  },
+  {
+    "dish_id": "dish_0e3c31d35ea1581c8d8a392ea12feb11",
+    "recipe_id": "recipe_c9d7e91027dd50cbb50e3e7794e3c6f3",
+    "recipe_version": "rv_856a1dac3f276f2dbd505876",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+    "state": "draft",
+    "title": "梅菜扣肉"
+  },
+  {
+    "dish_id": "dish_158c5084c81758a1a9a1a8c3e5f56bdf",
+    "recipe_id": "recipe_cb0115453f8a58faa7f487a05c4a0504",
+    "recipe_version": "rv_d8e0171b91991cfa1974b1a4",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/椒盐排条.md",
+    "state": "draft",
+    "title": "椒盐排条"
+  },
+  {
+    "dish_id": "dish_245c9cbf2ec45fa9aee3257638189153",
+    "recipe_id": "recipe_a3e9b0ef1a325fe7a047a2bc38196000",
+    "recipe_version": "rv_0f2567f7e93c60eea48ba96a",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+    "state": "draft",
+    "title": "水煮牛肉"
+  },
+  {
+    "dish_id": "dish_7d88bed40912575492fa98d2a262f4bc",
+    "recipe_id": "recipe_5c0437578ee25fa98f20a5607c132a40",
+    "recipe_version": "rv_28533da762dfadba5ae9bd8b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/水煮肉片.md",
+    "state": "draft",
+    "title": "水煮肉片"
+  },
+  {
+    "dish_id": "dish_ce7f15d3526a5e6091626221b87b53a1",
+    "recipe_id": "recipe_89a988fc71af5eecb8797f97abe08259",
+    "recipe_version": "rv_4fa3cb8b4f6f9d746d8408cb",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/洋葱炒猪肉.md",
+    "state": "draft",
+    "title": "洋葱炒猪肉"
+  },
+  {
+    "dish_id": "dish_1a34834b27d75eb098481e3a39260809",
+    "recipe_id": "recipe_8502b63cc7a15693a26ffe785f265de9",
+    "recipe_version": "rv_899ba76cbe2a1605676e5d51",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/淄博烧烤/淄博烧烤.md",
+    "state": "draft",
+    "title": "淄博烧烤"
+  },
+  {
+    "dish_id": "dish_ee6b02d27292538ea3f944ead3d84307",
+    "recipe_id": "recipe_cc69dd51c60a52ee913f350fe7dee5fd",
+    "recipe_version": "rv_b9cab9e03f170aea26eb882b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/清蒸鳜鱼/清蒸鳜鱼.md",
+    "state": "draft",
+    "title": "清蒸鳜鱼"
+  },
+  {
+    "dish_id": "dish_ab1e7a7300d65b73b101aa387c682809",
+    "recipe_id": "recipe_d565503bde0f5dc88a523eb527c2c12f",
+    "recipe_version": "rv_6dc5f74318f157e8d1137bf2",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
+    "state": "draft",
+    "title": "湖南家常红烧肉"
+  },
+  {
+    "dish_id": "dish_243a919385605f8cb5c8692bde3642cb",
+    "recipe_id": "recipe_4a21ce129b205c75b97b30d6d9f5c602",
+    "recipe_version": "rv_1178a4d073923cf8685a90b9",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
+    "state": "draft",
+    "title": "湘祁米夫鸭"
+  },
+  {
+    "dish_id": "dish_a84a40cd39755cc3adf2d305c6e5018d",
+    "recipe_id": "recipe_3629c066a044542eb2976414ecea425e",
+    "recipe_version": "rv_3d1dbc5829c3af4d8b67c76c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭.md",
+    "state": "draft",
+    "title": "澳门湿版免治牛肉饭"
+  },
+  {
+    "dish_id": "dish_163004b5d681513bbded3ff62704d6af",
+    "recipe_id": "recipe_38f498b0eef4552ca6f4663c84003173",
+    "recipe_version": "rv_1bca68a4a2bd25a6bef8931e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/烤鸡翅.md",
+    "state": "draft",
+    "title": "烤鸡翅"
+  },
+  {
+    "dish_id": "dish_21f70514f6805e98b92b2a5c16676fc6",
+    "recipe_id": "recipe_9f4ab6f970275234b38a0563b209d635",
+    "recipe_version": "rv_b6c86c9fdaacf59bd8cab532",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/煎烤羊排/煎烤羊排.md",
+    "state": "draft",
+    "title": "煎烤羊排"
+  },
+  {
+    "dish_id": "dish_5a556b726e705942ac2abf22e15f8769",
+    "recipe_id": "recipe_e8c3876224b05fa6a321a099b76b1da3",
+    "recipe_version": "rv_f1637cd8ae888eeb3c1b0419",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/牛排/牛排.md",
+    "state": "draft",
+    "title": "牛排"
+  },
+  {
+    "dish_id": "dish_86b0100ccba75a238c06cae1543e28aa",
+    "recipe_id": "recipe_c064d402c2615945a18c30b9a33940b9",
+    "recipe_version": "rv_75bffc35295f12d76473354e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/猪皮冻/猪皮冻.md",
+    "state": "draft",
+    "title": "猪皮冻"
+  },
+  {
+    "dish_id": "dish_bf4b1b5418b850faa1a9781ce275bfb4",
+    "recipe_id": "recipe_745cc325ad2b5b8b8551894b2f05077e",
+    "recipe_version": "rv_c9fc09ab0592f014ffd7c270",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/猪肉烩酸菜.md",
+    "state": "draft",
+    "title": "猪肉烩酸菜"
+  },
+  {
+    "dish_id": "dish_91423c4612f25a29a3443b292d998248",
+    "recipe_id": "recipe_9b6ebb80a8995c449b2663898657b82b",
+    "recipe_version": "rv_2b8281d4bb84ff7be26845d3",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/甜辣烤全翅.md",
+    "state": "draft",
+    "title": "甜辣烤全翅"
+  },
+  {
+    "dish_id": "dish_c00ee47f6f48583fa2728a616526eb68",
+    "recipe_id": "recipe_4096f4b3837c5f7a917da8aab9a71a20",
+    "recipe_version": "rv_39ca0db65e439f9202448b5c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/田螺酿/田螺酿.md",
+    "state": "draft",
+    "title": "田螺酿"
+  },
+  {
+    "dish_id": "dish_89bf4e1c2cf8545e8408364af85f7758",
+    "recipe_id": "recipe_7e85d924465f5f459cea976160f284ed",
+    "recipe_version": "rv_1c66dd6b66908bbd6f004ba0",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/番茄红酱.md",
+    "state": "draft",
+    "title": "番茄红酱"
+  },
+  {
+    "dish_id": "dish_93e6ee8be1b8565ca958b0afc6a3c20f",
+    "recipe_id": "recipe_276735acee4958bdbab58383c81fb962",
+    "recipe_version": "rv_50a885c1a2568478e72667e7",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
+    "state": "draft",
+    "title": "瘦肉土豆片"
+  },
+  {
+    "dish_id": "dish_3f538338ed6c5983934a33be05291e87",
+    "recipe_id": "recipe_8385ef63fb965dd1a948d5c5786806a7",
+    "recipe_version": "rv_d83538594b7682866d973ee3",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/白菜猪肉炖粉条.md",
+    "state": "draft",
+    "title": "白菜猪肉炖粉条"
+  },
+  {
+    "dish_id": "dish_eedd7fa7fa1f5f1a8dc464c1a19992b4",
+    "recipe_id": "recipe_7c7ef0dcd3915d278cfb947ea8e25419",
+    "recipe_version": "rv_0d50eb13820be453760f1963",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/空气炸锅脆皮现腌炸鸡/空气炸锅脆皮现腌炸鸡.md",
+    "state": "draft",
+    "title": "空气炸锅脆皮现腌炸鸡"
+  },
+  {
+    "dish_id": "dish_af0d8017285e5747b09939d0a038c3d1",
+    "recipe_id": "recipe_787a757adbab523eb83b8936784d342a",
+    "recipe_version": "rv_f7b3ced582132d07f06923cb",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/粉蒸肉.md",
+    "state": "draft",
+    "title": "粉蒸肉"
+  },
+  {
+    "dish_id": "dish_cfbe9b2879215585bf3b1a20528901ba",
+    "recipe_id": "recipe_3c71fbcf1fec55beb93596e27cbc669f",
+    "recipe_version": "rv_f4b44400aa59668c8bb8bd3e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+    "state": "development",
+    "title": "糖醋排骨"
+  },
+  {
+    "dish_id": "dish_177570bacf4c50f9b71de5787dabed5d",
+    "recipe_id": "recipe_8d4497debfa050a780ba4bcc9af2abc7",
+    "recipe_version": "rv_2484c2228e54c252f19905da",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/糖醋里脊.md",
+    "state": "draft",
+    "title": "糖醋里脊"
+  },
+  {
+    "dish_id": "dish_6591844f602d50d28cf457f0fc5cc938",
+    "recipe_id": "recipe_1d6083d8b6b25d8fae5e57fd31fd6271",
+    "recipe_version": "rv_bc37f5c2ee479d64626c49a3",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
+    "state": "draft",
+    "title": "红烧猪蹄"
+  },
+  {
+    "dish_id": "dish_5a0d81b5828b59f0945830bd3b77513d",
+    "recipe_id": "recipe_ec4c774040ae59d99fd78e4586e4ea2e",
+    "recipe_version": "rv_9f673022261f6af842e24d45",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/红烧肉/南派红烧肉.md",
+    "state": "draft",
+    "title": "南派红烧肉"
+  },
+  {
+    "dish_id": "dish_9972ecad90995541b883b47b027c2128",
+    "recipe_id": "recipe_13e81dd6353350a3b9acbfd457df260d",
+    "recipe_version": "rv_d74473b6e4feac6781294e64",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/红烧肉/简易红烧肉.md",
+    "state": "draft",
+    "title": "简易红烧肉"
+  },
+  {
+    "dish_id": "dish_28028e3408e658679417490a7454d152",
+    "recipe_id": "recipe_a9f8e9aa02605eaca3c008f2c24dc30c",
+    "recipe_version": "rv_b2809d3c9dee2e4341d1d6ce",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/红烧鸡翅.md",
+    "state": "development",
+    "title": "红烧鸡翅"
+  },
+  {
+    "dish_id": "dish_c43f0e95137553b588396384060de7e3",
+    "recipe_id": "recipe_db687cdf655c511f9168ba28ee2bf37c",
+    "recipe_version": "rv_c8723d7584eeb8c387db03e1",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/羊排焖面/羊排焖面.md",
+    "state": "draft",
+    "title": "羊排焖面"
+  },
+  {
+    "dish_id": "dish_637f6cfa814a518cabf997822061b7f9",
+    "recipe_id": "recipe_a5245a74812e502c89851acbcce87fb4",
+    "recipe_version": "rv_3b642f364aa938f5383bcd8c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/老妈蹄花/老妈蹄花.md",
+    "state": "draft",
+    "title": "老妈蹄花"
+  },
+  {
+    "dish_id": "dish_661bd15df0c4525c96eac67984e93f37",
+    "recipe_id": "recipe_e45579bf4a86502cbe44dd9929e95ebe",
+    "recipe_version": "rv_3564fac5c0c65adc5d9391cb",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+    "state": "draft",
+    "title": "老式锅包肉"
+  },
+  {
+    "dish_id": "dish_461525a7fce753b981939c72af4c8b31",
+    "recipe_id": "recipe_98f4bfc8759e5e12891c0a018eee1673",
+    "recipe_version": "rv_889c1c1c735ea1b5192c7036",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/肉饼炖蛋.md",
+    "state": "draft",
+    "title": "肉饼炖蛋"
+  },
+  {
+    "dish_id": "dish_755a2a71dc095d1e9682245d80237777",
+    "recipe_id": "recipe_339d66c784a35c8bb7b2295016213cfd",
+    "recipe_version": "rv_63d577c0712a7c6d6dc40275",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/腐乳肉.md",
+    "state": "draft",
+    "title": "腐乳肉"
+  },
+  {
+    "dish_id": "dish_0c24238258345688b112ba51973c237b",
+    "recipe_id": "recipe_b7a40a67ca6d58c7a8335bf62530ffc7",
+    "recipe_version": "rv_c375da1c36afb4d572d33dd0",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/芥末罗氏虾/芥末罗氏虾.md",
+    "state": "draft",
+    "title": "芥末罗氏虾"
+  },
+  {
+    "dish_id": "dish_667242a076e25ec78729d8b09bf6883a",
+    "recipe_id": "recipe_a34c12581ba85bdd922740ea55c2c017",
+    "recipe_version": "rv_511de62114c10dc30bd33983",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/茭白炒肉/茭白炒肉.md",
+    "state": "draft",
+    "title": "茭白炒肉"
+  },
+  {
+    "dish_id": "dish_e9511fd779d05b4e88e0b5d98c48ddc6",
+    "recipe_id": "recipe_379e7141ac4755f4ab53bb8af84017a1",
+    "recipe_version": "rv_c7dc32bd39860c7780f308c2",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/荔枝肉/荔枝肉.md",
+    "state": "draft",
+    "title": "荔枝肉"
+  },
+  {
+    "dish_id": "dish_88a723438c4c5015a062f4d04c7bf08d",
+    "recipe_id": "recipe_07be8b8955ef56c28821809ebf1cc6a5",
+    "recipe_version": "rv_5525a186057c4a7a2b9d9601",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
+    "state": "draft",
+    "title": "荷兰豆炒腊肠"
+  },
+  {
+    "dish_id": "dish_c222eb5650f850c7b18134d3878b3bb3",
+    "recipe_id": "recipe_040795513a7853a08c9ee49ec24e953c",
+    "recipe_version": "rv_b3c3f27b875a2f6f6d615aca",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/萝卜炖羊排.md",
+    "state": "draft",
+    "title": "萝卜炖羊排"
+  },
+  {
+    "dish_id": "dish_effef19081075a9ab8ce0ce436eeada3",
+    "recipe_id": "recipe_d1573c4fd55a5ecfa52e8e9fac712337",
+    "recipe_version": "rv_f32c31bdb499a7fb62030532",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/葱烧鸡腿.md",
+    "state": "draft",
+    "title": "葱烧鸡腿"
+  },
+  {
+    "dish_id": "dish_795671ec56d059f19011aebfa6f59d03",
+    "recipe_id": "recipe_2a2741eb6576526794c61de7019dfba1",
+    "recipe_version": "rv_0e9bd1f15e93720a23bbaac4",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/蒜苔炒肉末.md",
+    "state": "draft",
+    "title": "蒜苔炒肉末"
+  },
+  {
+    "dish_id": "dish_e8da7f48d5fe5f3182e02619a98643a0",
+    "recipe_id": "recipe_f4aaff4f9a1659f7b10d82ae29deda2a",
+    "recipe_version": "rv_d29b878bc6ee4e015f651152",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/虎皮肘子.md",
+    "state": "draft",
+    "title": "虎皮肘子"
+  },
+  {
+    "dish_id": "dish_cf0164c6ab925bcea5a82214e3cfa79e",
+    "recipe_id": "recipe_8b71e2f84f175cc79f1f15b5cc578579",
+    "recipe_version": "rv_cda5714d1aa876f7cad7f63c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/蚂蚁上树.md",
+    "state": "draft",
+    "title": "蚂蚁上树"
+  },
+  {
+    "dish_id": "dish_195fdeeb1fe55d13a2ba8594de982df2",
+    "recipe_id": "recipe_941436a429e35a78931f6bebedce78bf",
+    "recipe_version": "rv_b321d5f7ac8c82840fee543b",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/血浆鸭/血浆鸭.md",
+    "state": "draft",
+    "title": "血浆鸭"
+  },
+  {
+    "dish_id": "dish_cad52745f11d57bf9ef882ab5de8f38a",
+    "recipe_id": "recipe_d7efe87333a3587c8ff75c5d4cd7606e",
+    "recipe_version": "rv_132672f176add7ac65c8a2b5",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+    "state": "draft",
+    "title": "西红柿土豆炖牛肉"
+  },
+  {
+    "dish_id": "dish_0e2ceb2864a457148cbbdb526391d20b",
+    "recipe_id": "recipe_1593d1848d5750bca3ada48f611b6e79",
+    "recipe_version": "rv_6335497c3cd65aa9713f438e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+    "state": "draft",
+    "title": "西红柿牛腩"
+  },
+  {
+    "dish_id": "dish_ec2506cac92050598789a8e054c5bbed",
+    "recipe_id": "recipe_c08ea3121f395b81a61747252c9e638c",
+    "recipe_version": "rv_99fcf73f3fa98d5cc9cd575f",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/豆豉鲮鱼油麦菜/豆豉鲮鱼油麦菜.md",
+    "state": "draft",
+    "title": "豆豉鲮鱼油麦菜"
+  },
+  {
+    "dish_id": "dish_7cd54ba9726f58899d9e26c609d96edd",
+    "recipe_id": "recipe_7ee9331751a2574ebc34b567038b3553",
+    "recipe_version": "rv_92a14d4d24eb04590fb8ca24",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/豉汁排骨.md",
+    "state": "draft",
+    "title": "豉汁排骨"
+  },
+  {
+    "dish_id": "dish_40d0700b3d7e5f07a6b8c86d93260d84",
+    "recipe_id": "recipe_9b4e0aa00d1e5786bf27dfea1d66eb65",
+    "recipe_version": "rv_f76f9c04d45186acc594741c",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md",
+    "state": "draft",
+    "title": "豉汁蒸白鱔"
+  },
+  {
+    "dish_id": "dish_f502dc9576225544bbbf909e33896925",
+    "recipe_id": "recipe_4b79c46243b85f0cafd75a83594fafc8",
+    "recipe_version": "rv_af5e85faaa5abab447521ff6",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/贵州辣子鸡/贵州辣子鸡.md",
+    "state": "draft",
+    "title": "贵州辣子鸡"
+  },
+  {
+    "dish_id": "dish_d70fb58da4b15b6f8b6b659757a064f7",
+    "recipe_id": "recipe_d88d7355c8fb5d358832d36648254d0d",
+    "recipe_version": "rv_f85124c34f40d32881d4e823",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/辣椒炒肉.md",
+    "state": "draft",
+    "title": "辣椒炒肉"
+  },
+  {
+    "dish_id": "dish_301920f494f0505b8fd7f77c118b2136",
+    "recipe_id": "recipe_0fd297f7c1f2517da1fe6615aa788b75",
+    "recipe_version": "rv_36f7b8f9d923ee6010af1103",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/酱排骨/酱排骨.md",
+    "state": "draft",
+    "title": "酱排骨"
+  },
+  {
+    "dish_id": "dish_f5767478aebb5ba88673bb5854a7afde",
+    "recipe_id": "recipe_0004e035b85d56068f61c771dbdf3c07",
+    "recipe_version": "rv_3f5cc03ea1099f48077722b7",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/酱牛肉/酱牛肉.md",
+    "state": "draft",
+    "title": "酱牛肉"
+  },
+  {
+    "dish_id": "dish_b9420e559a825b59a2f3adb895ef12e0",
+    "recipe_id": "recipe_28b3b141f5225eca902a076896b47a0f",
+    "recipe_version": "rv_8eba55f1c81312688a005c37",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/醉排骨/醉排骨.md",
+    "state": "draft",
+    "title": "醉排骨"
+  },
+  {
+    "dish_id": "dish_f691dba010d5595e815aa9a8205248cd",
+    "recipe_id": "recipe_39f9aeac181c5c4b828d81635a726b6e",
+    "recipe_version": "rv_9f0f96893746395590987127",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
+    "state": "draft",
+    "title": "青椒土豆炒肉"
+  },
+  {
+    "dish_id": "dish_9c1606e8cd9b5e24addfa46c9d985802",
+    "recipe_id": "recipe_45cc76368fb257c49653cac808362491",
+    "recipe_version": "rv_799190bf92b57769b8e62de9",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/青椒酿/青椒酿.md",
+    "state": "draft",
+    "title": "青椒酿"
+  },
+  {
+    "dish_id": "dish_73b041be21ac5cba8b5eabaa264547ba",
+    "recipe_id": "recipe_ae0bd290336c57798b191986245310b2",
+    "recipe_version": "rv_90d0db817a0e675cee208e10",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/香干肉丝.md",
+    "state": "draft",
+    "title": "香干肉丝"
+  },
+  {
+    "dish_id": "dish_d199fe56ce8d5bb18b3d1019a73cf352",
+    "recipe_id": "recipe_dd574cf5082f516193330e7d1ead28c0",
+    "recipe_version": "rv_95417abf44f57e3feae7264f",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+    "state": "draft",
+    "title": "香干芹菜炒肉"
+  },
+  {
+    "dish_id": "dish_e906db9aacee5d8c9331942b278ed72f",
+    "recipe_id": "recipe_1d1d559564c35012938d02fb6d0fdad2",
+    "recipe_version": "rv_e9598f80660ac0792d4926d1",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/香煎五花肉/香煎五花肉.md",
+    "state": "draft",
+    "title": "香煎五花肉"
+  },
+  {
+    "dish_id": "dish_5f761b18180e5dd5aed84378a6f50d00",
+    "recipe_id": "recipe_493d1a700b67558a80a07e797813ab61",
+    "recipe_version": "rv_cd9b3fb62a883cee2bc038af",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+    "state": "development",
+    "title": "香菇滑鸡"
+  },
+  {
+    "dish_id": "dish_be026f08f5825c2b97b99f55d6802e40",
+    "recipe_id": "recipe_ea110deb94945ef981b53d89f4030597",
+    "recipe_version": "rv_ef143c08ad002e50da4acc47",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+    "state": "draft",
+    "title": "香辣鸡爪煲"
+  },
+  {
+    "dish_id": "dish_946985ed6fac51038d45350d44f8e8a9",
+    "recipe_id": "recipe_c3c68fb70817596cb71c02538a1c5956",
+    "recipe_version": "rv_19fbb9d83c3618050e2dab17",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/鱼香肉丝.md",
+    "state": "draft",
+    "title": "鱼香肉丝"
+  },
+  {
+    "dish_id": "dish_0d26c4db9a715a73b9217ec8884a9689",
+    "recipe_id": "recipe_0d9f6943b99f54f2a90a60393cf8703e",
+    "recipe_version": "rv_7186c7829648a79819e1a436",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+    "state": "draft",
+    "title": "鱼香茄子"
+  },
+  {
+    "dish_id": "dish_8724ba56d00954df995cf63322001369",
+    "recipe_id": "recipe_98d9735eb5c15d91aa230dc4f730adbd",
+    "recipe_version": "rv_55f8668a05f9f68fea63beeb",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+    "state": "development",
+    "title": "麻婆豆腐"
+  },
+  {
+    "dish_id": "dish_d81b55e0b247560c818afc002fccac28",
+    "recipe_id": "recipe_d8ce0ffe66385a25818988358290a0cb",
+    "recipe_version": "rv_38eb1f6fd7698be9d7d5d22e",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/麻辣香锅.md",
+    "state": "draft",
+    "title": "麻辣香锅"
+  },
+  {
+    "dish_id": "dish_cbbabf18ff3054fdbae9e37c6f61e09d",
+    "recipe_id": "recipe_ab006f0a53175b9086c7228d6a2b6154",
+    "recipe_version": "rv_728b97c369642b0b67c8f7fa",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/黄油鸡.md",
+    "state": "draft",
+    "title": "黄油鸡"
+  },
+  {
+    "dish_id": "dish_9cc75c13bec35709903c4e5725a9b4a2",
+    "recipe_id": "recipe_736edad9e45453fb93de364f572bd354",
+    "recipe_version": "rv_3f05ae6f8454e3545c41aa81",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/黄焖鸡.md",
+    "state": "draft",
+    "title": "黄焖鸡"
+  },
+  {
+    "dish_id": "dish_bb7ba7073f515a0dbe170d87e87a8db5",
+    "recipe_id": "recipe_977059ad4b5150bba82b0e35af379124",
+    "recipe_version": "rv_459d590e90dcf26b5d69e7f1",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/黄瓜炒肉.md",
+    "state": "draft",
+    "title": "黄瓜炒肉"
+  },
+  {
+    "dish_id": "dish_9917b95e32315703b3e959d5227fc716",
+    "recipe_id": "recipe_5ad51fc610c75df9a3976f568e713039",
+    "recipe_version": "rv_663fc49c18f415012e5d67d5",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+    "state": "draft",
+    "title": "黑椒牛柳"
+  },
+  {
+    "dish_id": "dish_63da5a19edf55fae9e0cf2445b4b6027",
+    "recipe_id": "recipe_9ba22daf723055d89198f28b494df70c",
+    "recipe_version": "rv_0c01ad5e98edb433e392413a",
+    "source_category": "meat_dish",
+    "source_path": "dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
+    "state": "draft",
+    "title": "黔式腊肠娃娃菜"
+  },
+  {
+    "dish_id": "dish_1e40b022fd085722a6e7899a49819866",
+    "recipe_id": "recipe_7e8f9d11256b517f9d3d9a2c64a04440",
+    "recipe_version": "rv_84a479d6e230c55dca1c30f2",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/凉皮.md",
+    "state": "draft",
+    "title": "凉皮"
+  },
+  {
+    "dish_id": "dish_ed7b3deb14ea5966955801d50a6b842a",
+    "recipe_id": "recipe_6ff2df780fe95fc4ac4286a0ceddc8fc",
+    "recipe_version": "rv_b4f0c6fe232f5a63474788b6",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/半成品意面.md",
+    "state": "draft",
+    "title": "半成品意面"
+  },
+  {
+    "dish_id": "dish_d556cf148dc153558e0e443e3fb8a0ca",
+    "recipe_id": "recipe_88417f77787d5237be6d342534583d4e",
+    "recipe_version": "rv_7961dd015dc819986bfc7154",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
+    "state": "draft",
+    "title": "懒人蛋挞"
+  },
+  {
+    "dish_id": "dish_0ccc35e13dd55686abe68b48a8bc50b5",
+    "recipe_id": "recipe_da20017b7dc257f59a5101d34798ff0d",
+    "recipe_version": "rv_6abbded64708fd3f2c2c2f58",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/炸薯条/炸薯条.md",
+    "state": "draft",
+    "title": "炸薯条"
+  },
+  {
+    "dish_id": "dish_429900dabc9358ddb5d9ba1604dd1752",
+    "recipe_id": "recipe_8bce3879da055fd8b6cfb7b783051f8f",
+    "recipe_version": "rv_fc347a06de9adb1465bf3e8d",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/牛油火锅底料.md",
+    "state": "draft",
+    "title": "牛油火锅底料"
+  },
+  {
+    "dish_id": "dish_78bc7635abaf5d9a8988ad8b56ff7802",
+    "recipe_id": "recipe_58b5124606ae534da2db9695367ff7e2",
+    "recipe_version": "rv_1ac459c70f5169f916f60118",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md",
+    "state": "draft",
+    "title": "空气炸锅羊排"
+  },
+  {
+    "dish_id": "dish_e629fb773be95916b72536d920207c30",
+    "recipe_id": "recipe_cf9f651deba65d10bbc9aa26bb7c9593",
+    "recipe_version": "rv_780f28ad17261628f569631d",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
+    "state": "draft",
+    "title": "空气炸锅鸡翅中"
+  },
+  {
+    "dish_id": "dish_de99a2b9a46452a3a6475c39de6411d5",
+    "recipe_id": "recipe_ed1ce111ecbe50faaf7ce7c5200a2918",
+    "recipe_version": "rv_f912f22f66aebbd4e98f1bfa",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/速冻水饺.md",
+    "state": "draft",
+    "title": "速冻水饺"
+  },
+  {
+    "dish_id": "dish_732f782ce78c51a596b10d44b74561c5",
+    "recipe_id": "recipe_2a32da9e632e5eb88805b4cd9cb9e831",
+    "recipe_version": "rv_16ad5c8066ce05afad87ee7e",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/速冻汤圆/速冻汤圆.md",
+    "state": "draft",
+    "title": "速冻汤圆"
+  },
+  {
+    "dish_id": "dish_279549a565db585d93cce0fafc330b64",
+    "recipe_id": "recipe_7e4d6b544b33526fb8979ae5ac3357cb",
+    "recipe_version": "rv_ffe7974494081951db2e4e12",
+    "source_category": "semi-finished",
+    "source_path": "dishes/semi-finished/速冻馄饨.md",
+    "state": "draft",
+    "title": "速冻馄饨"
+  },
+  {
+    "dish_id": "dish_b01e405e743c53c2a30db246337cfca2",
+    "recipe_id": "recipe_a9130d7ed19f580fbe3a7d611b4754c8",
+    "recipe_version": "rv_9cc408284dd366eb537ae64d",
+    "source_category": "soup",
+    "source_path": "dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
+    "state": "draft",
+    "title": "勾芡香菇汤"
+  },
+  {
+    "dish_id": "dish_1c37e149d154505e83485cdc9d08e131",
+    "recipe_id": "recipe_63968ad9ad1a50b09eb49b7357258392",
+    "recipe_version": "rv_625f4208ab87313cca98d6c4",
+    "source_category": "soup",
+    "source_path": "dishes/soup/奶油蘑菇汤.md",
+    "state": "draft",
+    "title": "奶油蘑菇汤"
+  },
+  {
+    "dish_id": "dish_ce7fba71c35f58a9a262df2b6e271ca2",
+    "recipe_id": "recipe_9835bd95703f5739bd2dc77e3c2b2f4f",
+    "recipe_version": "rv_a048027062aac4760f0a6926",
+    "source_category": "soup",
+    "source_path": "dishes/soup/小米粥.md",
+    "state": "draft",
+    "title": "小米粥"
+  },
+  {
+    "dish_id": "dish_41ff9b45fd0256f7995232fc71077df8",
+    "recipe_id": "recipe_6d8389ada42558c1aba9277dad074cfc",
+    "recipe_version": "rv_024fac331cea5eb11ec1efec",
+    "source_category": "soup",
+    "source_path": "dishes/soup/山药南瓜炖鸡汤.md",
+    "state": "draft",
+    "title": "山药南瓜炖鸡汤"
+  },
+  {
+    "dish_id": "dish_fbe35b4522c3589d8ef93020c6d0784d",
+    "recipe_id": "recipe_24ea58f84c12581d919f44f9ef93eb0d",
+    "recipe_version": "rv_055a50c6ccf9a671f5289e43",
+    "source_category": "soup",
+    "source_path": "dishes/soup/排骨山药玉米汤/排骨山药玉米汤.md",
+    "state": "draft",
+    "title": "排骨山药玉米汤"
+  },
+  {
+    "dish_id": "dish_2787a316cc48500cba6616562b64ed3c",
+    "recipe_id": "recipe_b786dd28280a534da897fcdad457f639",
+    "recipe_version": "rv_df9b335966ed97348602f6ca",
+    "source_category": "soup",
+    "source_path": "dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
+    "state": "draft",
+    "title": "排骨苦瓜汤"
+  },
+  {
+    "dish_id": "dish_27bafc81327e5672a4c24eaadcf967af",
+    "recipe_id": "recipe_2f0f83aac4d95f169e08a00f032f21af",
+    "recipe_version": "rv_651a2b080dec074d4392f312",
+    "source_category": "soup",
+    "source_path": "dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
+    "state": "draft",
+    "title": "昂刺鱼豆腐汤"
+  },
+  {
+    "dish_id": "dish_2187a41376e55c4eac3b155f00ae7606",
+    "recipe_id": "recipe_bf30f52408cc570a82612534d0e66a87",
+    "recipe_version": "rv_a0293d8f42680b4c4e036ef9",
+    "source_category": "soup",
+    "source_path": "dishes/soup/朱雀汤/朱雀汤.md",
+    "state": "draft",
+    "title": "朱雀汤"
+  },
+  {
+    "dish_id": "dish_5de195096cb559a6b0417eb859623947",
+    "recipe_id": "recipe_1c79b577b07b5cdc9552c107c60cda1d",
+    "recipe_version": "rv_baa0ce4d0b425ee216987953",
+    "source_category": "soup",
+    "source_path": "dishes/soup/玉米排骨汤/玉米排骨汤.md",
+    "state": "draft",
+    "title": "玉米排骨汤"
+  },
+  {
+    "dish_id": "dish_1933cbef499f58779223b7fb328d0f5d",
+    "recipe_id": "recipe_4ef98fe1579e5149b41a07ea99d3a335",
+    "recipe_version": "rv_ad8b4b2ecf1f2f2546291a27",
+    "source_category": "soup",
+    "source_path": "dishes/soup/生汆丸子汤.md",
+    "state": "draft",
+    "title": "生汆丸子汤"
+  },
+  {
+    "dish_id": "dish_e8b49ec78e9f571b952b20daedb2c451",
+    "recipe_id": "recipe_244f0bc44b8052dbb1a1f1655f7a0038",
+    "recipe_version": "rv_87543e73142f3882b2048f82",
+    "source_category": "soup",
+    "source_path": "dishes/soup/番茄牛肉蛋花汤.md",
+    "state": "development",
+    "title": "番茄牛肉蛋花汤"
+  },
+  {
+    "dish_id": "dish_b686b4a8dc225176af905c7aea520987",
+    "recipe_id": "recipe_45aacd021f275f4583f3924d4c5ca462",
+    "recipe_version": "rv_9b098f9165d33c1e9adca623",
+    "source_category": "soup",
+    "source_path": "dishes/soup/皮蛋瘦肉粥.md",
+    "state": "draft",
+    "title": "皮蛋瘦肉粥"
+  },
+  {
+    "dish_id": "dish_bdac7c6ddeab5a0fb1325d2c7bab8a9c",
+    "recipe_id": "recipe_77aee99633245b0cac9a67b65f28aaea",
+    "recipe_version": "rv_133963e333876d10d8f593c0",
+    "source_category": "soup",
+    "source_path": "dishes/soup/米粥.md",
+    "state": "draft",
+    "title": "米粥"
+  },
+  {
+    "dish_id": "dish_947be8d0446e5e5da062556d564db317",
+    "recipe_id": "recipe_6c44f975d42a5b168042eca53eb3de5b",
+    "recipe_version": "rv_48792552af06edbca912a415",
+    "source_category": "soup",
+    "source_path": "dishes/soup/紫菜蛋花汤.md",
+    "state": "development",
+    "title": "紫菜蛋花汤"
+  },
+  {
+    "dish_id": "dish_6fc1a9d5e40455d09dfaa80c1f5fe185",
+    "recipe_id": "recipe_4811f5e6a6135ba59a634b0e98516ce7",
+    "recipe_version": "rv_f68daf4ab4fff27f732e896e",
+    "source_category": "soup",
+    "source_path": "dishes/soup/罗宋汤.md",
+    "state": "draft",
+    "title": "罗宋汤"
+  },
+  {
+    "dish_id": "dish_d635453911285122a34448904b2d24fb",
+    "recipe_id": "recipe_5cb8618bb6e15ce485f79e1f4d45e39f",
+    "recipe_version": "rv_db5addbc559ef5216eb56569",
+    "source_category": "soup",
+    "source_path": "dishes/soup/羊肉汤/羊肉汤.md",
+    "state": "draft",
+    "title": "羊肉汤"
+  },
+  {
+    "dish_id": "dish_8c66172d74a054e7a4261ca09a870cba",
+    "recipe_id": "recipe_0daa124d0a0056ee939c8bf4821fb46c",
+    "recipe_version": "rv_375ac61a7dec473d1c1a392c",
+    "source_category": "soup",
+    "source_path": "dishes/soup/腊八粥.md",
+    "state": "draft",
+    "title": "腊八粥"
+  },
+  {
+    "dish_id": "dish_e68a51a964e75bfda3c88e8dddf502a9",
+    "recipe_id": "recipe_c71c96cc0c865847814da5934da0ecd0",
+    "recipe_version": "rv_eea206e7e7d7fda03ba76998",
+    "source_category": "soup",
+    "source_path": "dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+    "state": "draft",
+    "title": "菌菇炖乳鸽"
+  },
+  {
+    "dish_id": "dish_eb8de0c247ec5c48b312bb9fc2a57b7f",
+    "recipe_id": "recipe_a86ce1cd33275058ac0da3cdfd77f54c",
+    "recipe_version": "rv_f4ea986d2ed6cd11149d5ef2",
+    "source_category": "soup",
+    "source_path": "dishes/soup/西红柿鸡蛋汤.md",
+    "state": "draft",
+    "title": "西红柿鸡蛋汤"
+  },
+  {
+    "dish_id": "dish_5c34c6cf3e3d5ffebb1e4646c4f765d3",
+    "recipe_id": "recipe_c1f2c2f253ff5190ad3293e5e7f2d513",
+    "recipe_version": "rv_b6aed28278829d57abb757c6",
+    "source_category": "soup",
+    "source_path": "dishes/soup/金针菇汤.md",
+    "state": "development",
+    "title": "金针菇汤"
+  },
+  {
+    "dish_id": "dish_894f0b80a9005c3dbdf5c03a4ea3372c",
+    "recipe_id": "recipe_ec5d4aa2107d5ccb9ccdf73879cb0be4",
+    "recipe_version": "rv_5d935ed8d6537b90bc3f539f",
+    "source_category": "soup",
+    "source_path": "dishes/soup/银耳莲子粥/银耳莲子粥.md",
+    "state": "development",
+    "title": "银耳莲子粥"
+  },
+  {
+    "dish_id": "dish_a33a61255a9e573eb4600f257ba15a8c",
+    "recipe_id": "recipe_788afd76bc675754a434402f95a40de7",
+    "recipe_version": "rv_4b494d3526ac14b20e6bb785",
+    "source_category": "soup",
+    "source_path": "dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
+    "state": "draft",
+    "title": "陈皮排骨汤"
+  },
+  {
+    "dish_id": "dish_3216847ca70b592797e067979e4c9a9c",
+    "recipe_id": "recipe_fb0c6897df5d50cd8522e5398901e0bd",
+    "recipe_version": "rv_6665a08aa92e8dbb529562c4",
+    "source_category": "soup",
+    "source_path": "dishes/soup/黄瓜皮蛋汤.md",
+    "state": "draft",
+    "title": "黄瓜皮蛋汤"
+  },
+  {
+    "dish_id": "dish_2a52fa7c71f851bbb6cf486b04d12801",
+    "recipe_id": "recipe_7489989538225e6487c635b68a648ad9",
+    "recipe_version": "rv_6ed9e5cd3fa479c0d4e34760",
+    "source_category": "staple",
+    "source_path": "dishes/staple/中式馅饼/中式馅饼.md",
+    "state": "draft",
+    "title": "中式馅饼"
+  },
+  {
+    "dish_id": "dish_e7519473ce0a5608b1cf3bae321467f0",
+    "recipe_id": "recipe_3f1b7439e1e35f31bfa0cf6796bf4e10",
+    "recipe_version": "rv_e2cc992718b8c470e368c460",
+    "source_category": "staple",
+    "source_path": "dishes/staple/凉粉/凉粉.md",
+    "state": "draft",
+    "title": "凉粉"
+  },
+  {
+    "dish_id": "dish_3d0e28da0c8c5a268d90fe48c1f38bff",
+    "recipe_id": "recipe_fc6ef7aabeed55a4a2ec1d415b50b40f",
+    "recipe_version": "rv_77a5eb138190af4ff6159435",
+    "source_category": "staple",
+    "source_path": "dishes/staple/利提巧卡.md",
+    "state": "draft",
+    "title": "利提巧卡"
+  },
+  {
+    "dish_id": "dish_a69ec78134d05e129fe9a11822be346e",
+    "recipe_id": "recipe_f24580a439b9573281158c4f8240c04c",
+    "recipe_version": "rv_65c51cce9339e99aea37061a",
+    "source_category": "staple",
+    "source_path": "dishes/staple/印度烤饼.md",
+    "state": "draft",
+    "title": "印度烤饼"
+  },
+  {
+    "dish_id": "dish_fc8f1725248656e4ab1f2150dada0876",
+    "recipe_id": "recipe_89165d9e6b0e5630a7177902b64a0cb9",
+    "recipe_version": "rv_67dc79dde12e357d0ff64682",
+    "source_category": "staple",
+    "source_path": "dishes/staple/印度焖饭.md",
+    "state": "draft",
+    "title": "印度焖饭"
+  },
+  {
+    "dish_id": "dish_2256fa3fa97551bfb9be1da4895d8b7a",
+    "recipe_id": "recipe_318352f00ab759f89dbaaa0fc8e53df7",
+    "recipe_version": "rv_82b476bc2db2d1317536e5b3",
+    "source_category": "staple",
+    "source_path": "dishes/staple/可乐炒饭.md",
+    "state": "draft",
+    "title": "可乐炒饭"
+  },
+  {
+    "dish_id": "dish_4b598b2372145ff68de4faf57262838b",
+    "recipe_id": "recipe_e94bb2f65bda5c81917d015fc08a3b26",
+    "recipe_version": "rv_02d2f2654a3ce43fd70a56ac",
+    "source_category": "staple",
+    "source_path": "dishes/staple/咸肉菜饭.md",
+    "state": "draft",
+    "title": "咸肉菜饭"
+  },
+  {
+    "dish_id": "dish_ff6e008d1bb654a0a838a6d376636390",
+    "recipe_id": "recipe_2af0c5b4f82f590f9bd20c66b1270538",
+    "recipe_version": "rv_4eabcab8ef102a01f657e9d5",
+    "source_category": "staple",
+    "source_path": "dishes/staple/基础牛奶面包/基础牛奶面包.md",
+    "state": "draft",
+    "title": "基础牛奶面包"
+  },
+  {
+    "dish_id": "dish_3a269a61829a5bef9e5c8e16a2cf26cc",
+    "recipe_id": "recipe_b46dbefac15e5978b8d4cd8169c8f6ca",
+    "recipe_version": "rv_86dc64fcafd523089b49b569",
+    "source_category": "staple",
+    "source_path": "dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
+    "state": "draft",
+    "title": "微波炉腊肠煲仔饭"
+  },
+  {
+    "dish_id": "dish_94502cbb16cd5a9ea0f011d4f5cdb5b5",
+    "recipe_id": "recipe_4dfbc382aab85f2b976b6c8ce36bf70e",
+    "recipe_version": "rv_b53175736125bf17736df193",
+    "source_category": "staple",
+    "source_path": "dishes/staple/意式肉酱面/意式肉酱面.md",
+    "state": "draft",
+    "title": "意式肉酱面"
+  },
+  {
+    "dish_id": "dish_66964aa361f751d39085da89adbc26e4",
+    "recipe_id": "recipe_0e415aaf80e55435801c9492cc728635",
+    "recipe_version": "rv_8d993db1a318bebcf6d4804c",
+    "source_category": "staple",
+    "source_path": "dishes/staple/手工水饺.md",
+    "state": "draft",
+    "title": "手工水饺"
+  },
+  {
+    "dish_id": "dish_0f7f02a1c12b5eb1a33eaa6f0639d39b",
+    "recipe_id": "recipe_33101853f3705adf98dac0646461e105",
+    "recipe_version": "rv_02e644706d30ea69098b0a4b",
+    "source_category": "staple",
+    "source_path": "dishes/staple/扬州炒饭/扬州炒饭.md",
+    "state": "draft",
+    "title": "扬州炒饭"
+  },
+  {
+    "dish_id": "dish_f38c35f766835a3ba977e96ad6c4af52",
+    "recipe_id": "recipe_9b0c39cc5ec057de9406aaed7fb37143",
+    "recipe_version": "rv_4ca678eed17612c19ef330aa",
+    "source_category": "staple",
+    "source_path": "dishes/staple/披萨饼皮/披萨饼皮.md",
+    "state": "draft",
+    "title": "披萨饼皮"
+  },
+  {
+    "dish_id": "dish_fbb9fb8649fc5bbbbb63d288ae2729d8",
+    "recipe_id": "recipe_896006c9061d5591a203e1357621b262",
+    "recipe_version": "rv_b130b5fc9c7198db61cb7415",
+    "source_category": "staple",
+    "source_path": "dishes/staple/日式咖喱饭/日式咖喱饭.md",
+    "state": "draft",
+    "title": "日式咖喱饭"
+  },
+  {
+    "dish_id": "dish_14d04add7f285496af3684ee74b49eda",
+    "recipe_id": "recipe_f14a5e005ada5e119db3345be23df32e",
+    "recipe_version": "rv_57efc37e25258f65ac46f82e",
+    "source_category": "staple",
+    "source_path": "dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
+    "state": "development",
+    "title": "日式肥牛丼饭"
+  },
+  {
+    "dish_id": "dish_0ee8f1b67d4557369d34d0da208ffa4c",
+    "recipe_id": "recipe_cfb38b5b8b3354ea9e260e34f50ab52d",
+    "recipe_version": "rv_d4e25dfac8d722d4facb46f8",
+    "source_category": "staple",
+    "source_path": "dishes/staple/汤面.md",
+    "state": "draft",
+    "title": "汤面"
+  },
+  {
+    "dish_id": "dish_adf5716b1bc5574fb3dffb4dec9f090e",
+    "recipe_id": "recipe_50353d8e1e55516fa51529b8d927ab46",
+    "recipe_version": "rv_db2dc9d08c2b0d8d2b47e908",
+    "source_category": "staple",
+    "source_path": "dishes/staple/河南蒸面条/河南蒸面条.md",
+    "state": "draft",
+    "title": "河南蒸面条"
+  },
+  {
+    "dish_id": "dish_43ccdcfc125257ff9f8191ebd8640d7b",
+    "recipe_id": "recipe_823f10612b0757439a8ecfc709d02c45",
+    "recipe_version": "rv_07e42ef0919f5aa8861a4906",
+    "source_category": "staple",
+    "source_path": "dishes/staple/滕州菜煎饼.md",
+    "state": "draft",
+    "title": "滕州菜煎饼"
+  },
+  {
+    "dish_id": "dish_c4e7ec3d94185457b836015c553b04cc",
+    "recipe_id": "recipe_227ed2416e635ee7bab4e29641af3a3e",
+    "recipe_version": "rv_59ad08ae058552809d6a807e",
+    "source_category": "staple",
+    "source_path": "dishes/staple/火腿饭团/火腿饭团.md",
+    "state": "draft",
+    "title": "火腿饭团"
+  },
+  {
+    "dish_id": "dish_80642f6cfcca54fbad387a85c635efca",
+    "recipe_id": "recipe_7d9c88b1e14156f492641b4ef6aefe04",
+    "recipe_version": "rv_ce4622797e49606ca4e4747a",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炒凉粉/炒凉粉.md",
+    "state": "draft",
+    "title": "炒凉粉"
+  },
+  {
+    "dish_id": "dish_678c2faf55cc5d7fa324abccad18bf0b",
+    "recipe_id": "recipe_cbc67c5b3a1255bfbf8c2ac885f8405f",
+    "recipe_version": "rv_23f2672a0ddacb60abdb5829",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炒年糕.md",
+    "state": "draft",
+    "title": "炒年糕"
+  },
+  {
+    "dish_id": "dish_dc9f8770ca59544da195534afb2d0110",
+    "recipe_id": "recipe_3a8091f4585652d2a1f256741285a5c7",
+    "recipe_version": "rv_c137c6951be207fce54d2ed2",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炒意大利面/炒意大利面.md",
+    "state": "draft",
+    "title": "炒意大利面"
+  },
+  {
+    "dish_id": "dish_4567827c1bb85f3985dcb97b4ab3b468",
+    "recipe_id": "recipe_8d77b85a5c2e5db2bfd744f46e9ae1de",
+    "recipe_version": "rv_587c5764e28339e72b0f3a45",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炒方便面/炒方便面.md",
+    "state": "draft",
+    "title": "炒方便面"
+  },
+  {
+    "dish_id": "dish_2b6eda02310151bba7b75d6e52204953",
+    "recipe_id": "recipe_93509e8e89ec518db1284ceab0c93984",
+    "recipe_version": "rv_f8fe88722befc7b9875da817",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炒河粉.md",
+    "state": "draft",
+    "title": "炒河粉"
+  },
+  {
+    "dish_id": "dish_e36c5d4d664e55cc931cdab6f92e9dc8",
+    "recipe_id": "recipe_420b364976325a90a6795b32d0f30e0b",
+    "recipe_version": "rv_7327257597965f2ea3b0dde3",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炒馍.md",
+    "state": "draft",
+    "title": "炒馍"
+  },
+  {
+    "dish_id": "dish_7c0e5df65ee958f7aaf82252f7b5e46d",
+    "recipe_id": "recipe_6fd4f14572bc57499911a9ea90dabb60",
+    "recipe_version": "rv_8c1eb0c83235d18e2a57d59e",
+    "source_category": "staple",
+    "source_path": "dishes/staple/炸酱面.md",
+    "state": "draft",
+    "title": "炸酱面"
+  },
+  {
+    "dish_id": "dish_02acf447fd685bfb855452d4ab3f6187",
+    "recipe_id": "recipe_c68b597cd2c8571697cfd1fc1ce42336",
+    "recipe_version": "rv_62295e4e743369dea84c517f",
+    "source_category": "staple",
+    "source_path": "dishes/staple/烙饼/烙饼.md",
+    "state": "draft",
+    "title": "烙饼"
+  },
+  {
+    "dish_id": "dish_c8603004d2185624b935aa943dbd17c2",
+    "recipe_id": "recipe_9ba8d2c2e22553fe9ec364f2b1164eeb",
+    "recipe_version": "rv_62bc1dfb464dcd9233a32a90",
+    "source_category": "staple",
+    "source_path": "dishes/staple/烧饼/芝麻烧饼.md",
+    "state": "draft",
+    "title": "芝麻烧饼"
+  },
+  {
+    "dish_id": "dish_ba40830ad2d65c6b801cdf7082795fea",
+    "recipe_id": "recipe_336e4735facb5fab912d0e924622c7b1",
+    "recipe_version": "rv_2a1ea0431b1a33e521194ac9",
+    "source_category": "staple",
+    "source_path": "dishes/staple/热干面.md",
+    "state": "draft",
+    "title": "热干面"
+  },
+  {
+    "dish_id": "dish_2eeb742fdb4a5b538faeb91a0c9a0f43",
+    "recipe_id": "recipe_ed90d9fbb931513fb3afbaa1b1639d6d",
+    "recipe_version": "rv_bfb01ad4154dc52e532b2d2b",
+    "source_category": "staple",
+    "source_path": "dishes/staple/照烧鸡腿饭.md",
+    "state": "draft",
+    "title": "照烧鸡腿饭"
+  },
+  {
+    "dish_id": "dish_1bf70bacc7a15a168a976ed741e644da",
+    "recipe_id": "recipe_4992bf68ba205c6081287509e9e31905",
+    "recipe_version": "rv_1873c34590d3e30c643f920f",
+    "source_category": "staple",
+    "source_path": "dishes/staple/煮泡面加蛋.md",
+    "state": "draft",
+    "title": "煮泡面加蛋"
+  },
+  {
+    "dish_id": "dish_ca46e00842d15db99ef9990410642a6b",
+    "recipe_id": "recipe_cf70ca7624e052ef939dead1adadd24e",
+    "recipe_version": "rv_bd0f783d1dc7497d68bbd435",
+    "source_category": "staple",
+    "source_path": "dishes/staple/猪油拌饭.md",
+    "state": "draft",
+    "title": "猪油拌饭"
+  },
+  {
+    "dish_id": "dish_8cd3c0f7f3085f378e86053d865b88de",
+    "recipe_id": "recipe_706db60faa6850ed9217ddb7ef5a9e1a",
+    "recipe_version": "rv_17e1e4bf857702018e8953f3",
+    "source_category": "staple",
+    "source_path": "dishes/staple/电饭煲三文鱼炊饭/电饭煲三文鱼炊饭.md",
+    "state": "draft",
+    "title": "电饭煲三文鱼炊饭"
+  },
+  {
+    "dish_id": "dish_1f1732d64b29581f961980fe5244e9f1",
+    "recipe_id": "recipe_de42ceb589ea5ab99b8c39e904e8abc5",
+    "recipe_version": "rv_62f3d4c8b5444e93921ab88d",
+    "source_category": "staple",
+    "source_path": "dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
+    "state": "draft",
+    "title": "空气炸锅照烧鸡饭"
+  },
+  {
+    "dish_id": "dish_ddf1c48cd9e25ff59f4f2d7f68808835",
+    "recipe_id": "recipe_f37853e4328c5b6e82fc0aad71266d8f",
+    "recipe_version": "rv_5078040ca614062f601d64d4",
+    "source_category": "staple",
+    "source_path": "dishes/staple/米饭/煮锅蒸米饭.md",
+    "state": "draft",
+    "title": "煮锅蒸米饭"
+  },
+  {
+    "dish_id": "dish_a8a174358b6659edb1a5fe2f6021e0b6",
+    "recipe_id": "recipe_f8e26e4f3252553ab4050108248b77b9",
+    "recipe_version": "rv_f7f26849b13214feed84d8bb",
+    "source_category": "staple",
+    "source_path": "dishes/staple/米饭/电饭煲蒸米饭.md",
+    "state": "development",
+    "title": "电饭煲蒸米饭"
+  },
+  {
+    "dish_id": "dish_ad4c33c30ecd516fac3ac4a4241e5df5",
+    "recipe_id": "recipe_2755594de11d5e338ac16bda1b82588f",
+    "recipe_version": "rv_0908c5ecaeb2c05f33971399",
+    "source_category": "staple",
+    "source_path": "dishes/staple/红芸豆拌饭.md",
+    "state": "draft",
+    "title": "红芸豆拌饭"
+  },
+  {
+    "dish_id": "dish_1570711cfc4b57b59b036becc220696a",
+    "recipe_id": "recipe_1fe0ef2d029a507e96720177b4bff783",
+    "recipe_version": "rv_a379addb8c8d177fe99440b9",
+    "source_category": "staple",
+    "source_path": "dishes/staple/老友猪肉粉/老友猪肉粉.md",
+    "state": "draft",
+    "title": "老友猪肉粉"
+  },
+  {
+    "dish_id": "dish_9dbb88d2249452a4983e96776a60dce3",
+    "recipe_id": "recipe_cff444f1b8c854938bc36323c9c90b13",
+    "recipe_version": "rv_99a81f4cd14d46e3e5841685",
+    "source_category": "staple",
+    "source_path": "dishes/staple/老干妈拌面.md",
+    "state": "draft",
+    "title": "老干妈拌面"
+  },
+  {
+    "dish_id": "dish_92b9416afcfb5fa2b11c0aed6ed6d2fe",
+    "recipe_id": "recipe_9cb60a47938b5312acd282ea428625b5",
+    "recipe_version": "rv_ab5e50c0682c6165034afb81",
+    "source_category": "staple",
+    "source_path": "dishes/staple/肉蛋盖饭.md",
+    "state": "draft",
+    "title": "肉蛋盖饭"
+  },
+  {
+    "dish_id": "dish_a4912e6c24aa5d168428130d39628034",
+    "recipe_id": "recipe_1d1b7592f462538ea1078fb811097d96",
+    "recipe_version": "rv_482e7ebb9c1613e7431b39b5",
+    "source_category": "staple",
+    "source_path": "dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
+    "state": "draft",
+    "title": "茄子肉煎饼"
+  },
+  {
+    "dish_id": "dish_537033c5266754b7ad8bb22dd3f3d53c",
+    "recipe_id": "recipe_4cb9c2eab92c57cd9a07fd296d8fd1b4",
+    "recipe_version": "rv_6ae0f788d858f216ef79a49c",
+    "source_category": "staple",
+    "source_path": "dishes/staple/葱油拌面.md",
+    "state": "development",
+    "title": "葱油拌面"
+  },
+  {
+    "dish_id": "dish_3ab74a4f406e5aa68517eda275d63c5d",
+    "recipe_id": "recipe_226f193a2e4b5cb8b9cfca16dbf1bdf0",
+    "recipe_version": "rv_9507df948b96e817a011c563",
+    "source_category": "staple",
+    "source_path": "dishes/staple/蒸卤面.md",
+    "state": "draft",
+    "title": "蒸卤面"
+  },
+  {
+    "dish_id": "dish_27576fbda3a25b66b1f4af08c66425c7",
+    "recipe_id": "recipe_9cfbc39447c7519f9d8d1bf8b93fe2fc",
+    "recipe_version": "rv_a47715757668274d91ea3fbe",
+    "source_category": "staple",
+    "source_path": "dishes/staple/蛋包饭.md",
+    "state": "draft",
+    "title": "蛋包饭"
+  },
+  {
+    "dish_id": "dish_c5e23a930bbc54a29aa5e3d4b28159f9",
+    "recipe_id": "recipe_5699dacb1d3857489d96592e745afc28",
+    "recipe_version": "rv_0fecdee637ab30328da4e42a",
+    "source_category": "staple",
+    "source_path": "dishes/staple/蛋炒饭.md",
+    "state": "development",
+    "title": "蛋炒饭"
+  },
+  {
+    "dish_id": "dish_0070b2c0c09d5924b9ab77d1f7fd6393",
+    "recipe_id": "recipe_55251a5d0a835250bb7f74158f5d1089",
+    "recipe_version": "rv_4903bbaa931688ce7e78329a",
+    "source_category": "staple",
+    "source_path": "dishes/staple/螺蛳粉.md",
+    "state": "draft",
+    "title": "螺蛳粉"
+  },
+  {
+    "dish_id": "dish_19c64635ffc2566c83c2b6d1750505bf",
+    "recipe_id": "recipe_cf3c9c61716155bab4c802355c721293",
+    "recipe_version": "rv_f61aaa470c4aeac80116e2c6",
+    "source_category": "staple",
+    "source_path": "dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+    "state": "development",
+    "title": "西红柿鸡蛋挂面"
+  },
+  {
+    "dish_id": "dish_26864f98ef2e5f049a9055878caf4fa8",
+    "recipe_id": "recipe_db37c73b42c150dfabb9d564ba3c95c8",
+    "recipe_version": "rv_fe4bc883010e874ee64dcae2",
+    "source_category": "staple",
+    "source_path": "dishes/staple/豆角焖面/豆角焖面.md",
+    "state": "draft",
+    "title": "豆角焖面"
+  },
+  {
+    "dish_id": "dish_2204aa5efd725e48a40675866a3859e5",
+    "recipe_id": "recipe_fc326a58a21c5b13bccdace176c12151",
+    "recipe_version": "rv_15659a5ded7e7f44ad0e15b4",
+    "source_category": "staple",
+    "source_path": "dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
+    "state": "draft",
+    "title": "酱拌荞麦面"
+  },
+  {
+    "dish_id": "dish_db64e1d1d314588081042b2f52e332a9",
+    "recipe_id": "recipe_343c3ace3b95545fa636737c570a50a7",
+    "recipe_version": "rv_a37810b8a286e233b87ae712",
+    "source_category": "staple",
+    "source_path": "dishes/staple/酸辣蕨根粉.md",
+    "state": "draft",
+    "title": "酸辣蕨根粉"
+  },
+  {
+    "dish_id": "dish_dc2d72d7b7cb5eb88ec4a6810486261e",
+    "recipe_id": "recipe_33bff6e88031593dbfa98ff33b00b8ac",
+    "recipe_version": "rv_29176702684686b3285af35e",
+    "source_category": "staple",
+    "source_path": "dishes/staple/醪糟小汤圆.md",
+    "state": "draft",
+    "title": "醪糟小汤圆"
+  },
+  {
+    "dish_id": "dish_ec7e270b3a4c57ca94c4075518811176",
+    "recipe_id": "recipe_2b15dd9e242f5e78a4570332b092396f",
+    "recipe_version": "rv_8d191558fb9380d1394f8e1e",
+    "source_category": "staple",
+    "source_path": "dishes/staple/陕西油泼面/陕西油泼面.md",
+    "state": "draft",
+    "title": "陕西油泼面"
+  },
+  {
+    "dish_id": "dish_1b466dbaed815223b08ec7870c957e6a",
+    "recipe_id": "recipe_3317031b40cf582c82168ff9d51a3e65",
+    "recipe_version": "rv_93b7ef46500b7c2c08807d03",
+    "source_category": "staple",
+    "source_path": "dishes/staple/韩式拌饭/韩式拌饭.md",
+    "state": "draft",
+    "title": "韩式拌饭"
+  },
+  {
+    "dish_id": "dish_0b8be510ab2a5c05b89bb36613932abe",
+    "recipe_id": "recipe_5e3bbb52c8435b419c63f75819a4554e",
+    "recipe_version": "rv_0cd1296f6823e955fcae3069",
+    "source_category": "staple",
+    "source_path": "dishes/staple/韭菜盒子.md",
+    "state": "draft",
+    "title": "韭菜盒子"
+  },
+  {
+    "dish_id": "dish_5945bb09ed2e5f74804bd75fe81768e9",
+    "recipe_id": "recipe_1bf62c3359a95821a7c55dda73259ab0",
+    "recipe_version": "rv_1261e2e1f4a636a69c2fabbd",
+    "source_category": "staple",
+    "source_path": "dishes/staple/鲜肉烧卖.md",
+    "state": "draft",
+    "title": "鲜肉烧卖"
+  },
+  {
+    "dish_id": "dish_1cb3841100d6597fb5dd66c44dcc5b11",
+    "recipe_id": "recipe_ed737ba515395269b859d44125b083d9",
+    "recipe_version": "rv_726b37d4f69bca7a29e9c269",
+    "source_category": "staple",
+    "source_path": "dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
+    "state": "draft",
+    "title": "鲣鱼海苔玉米饭"
+  },
+  {
+    "dish_id": "dish_059ed58644db5c93bf89a175ae7d448b",
+    "recipe_id": "recipe_bbe334c82abc5ff595a97cec73cf3ddb",
+    "recipe_version": "rv_3a3e8a30d5890d2e6dff4bc1",
+    "source_category": "staple",
+    "source_path": "dishes/staple/鹰嘴豆炸饼.md",
+    "state": "draft",
+    "title": "鹰嘴豆炸饼"
+  },
+  {
+    "dish_id": "dish_cbf5c96c7ebb59d3b5af821c4c15a090",
+    "recipe_id": "recipe_92fe76c022655b6dbb9cd9709a089701",
+    "recipe_version": "rv_b4a6d0981bad40206fb276c7",
+    "source_category": "staple",
+    "source_path": "dishes/staple/麻油拌面.md",
+    "state": "draft",
+    "title": "麻油拌面"
+  },
+  {
+    "dish_id": "dish_096609b4984f5335ba6d91eb14f4a342",
+    "recipe_id": "recipe_c012fe945b22531fbed2b7c02724e8da",
+    "recipe_version": "rv_7e5826812cff26a9d08456e3",
+    "source_category": "staple",
+    "source_path": "dishes/staple/麻辣减脂荞麦面.md",
+    "state": "draft",
+    "title": "麻辣减脂荞麦面"
+  },
+  {
+    "dish_id": "dish_4a53146574dd568d949466784158f550",
+    "recipe_id": "recipe_48224e14aad45bb8995e83fdc84728e6",
+    "recipe_version": "rv_7b64e2d7f61cdf91196ba11b",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+    "state": "draft",
+    "title": "上汤娃娃菜"
+  },
+  {
+    "dish_id": "dish_4e4c5c5152315a7b8604550738687925",
+    "recipe_id": "recipe_95f948841ec655d0b5828f04a87c2348",
+    "recipe_version": "rv_6237b7e9aa8e88c6d90da215",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/乾隆白菜/乾隆白菜.md",
+    "state": "draft",
+    "title": "乾隆白菜"
+  },
+  {
+    "dish_id": "dish_1af621cda9815de1a817241aabf2a7cf",
+    "recipe_id": "recipe_f968d0755e1951168ad5b00449f82c88",
+    "recipe_version": "rv_ab7f7aeb3a769e8e589d0e5e",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+    "state": "draft",
+    "title": "凉拌木耳"
+  },
+  {
+    "dish_id": "dish_90cc76ed763d531da344f05cde07f283",
+    "recipe_id": "recipe_ac70973473b05e5bb416a0a84d334675",
+    "recipe_version": "rv_8f78e5c31f2edc4fef52ac79",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/凉拌油麦菜.md",
+    "state": "draft",
+    "title": "凉拌油麦菜"
+  },
+  {
+    "dish_id": "dish_a7d54866904c5423a2bdd0f90bbe7c9b",
+    "recipe_id": "recipe_b5f6818c205259c493385a19b09811d6",
+    "recipe_version": "rv_d2faf08c2a8844358d398399",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
+    "state": "draft",
+    "title": "凉拌莴笋"
+  },
+  {
+    "dish_id": "dish_6c5b1256250254a1894f031ea3e77eee",
+    "recipe_id": "recipe_4c0051a3ee2556d593486c95d00a4412",
+    "recipe_version": "rv_1af7e508aa212d5e46dd498f",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/凉拌豆腐.md",
+    "state": "draft",
+    "title": "凉拌豆腐"
+  },
+  {
+    "dish_id": "dish_db77d8323c16590598b8079ad623a810",
+    "recipe_id": "recipe_564ca9a18303516da637d9dacd6b8d8b",
+    "recipe_version": "rv_39612b4536073b47473158cc",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/凉拌金针菇.md",
+    "state": "draft",
+    "title": "凉拌金针菇"
+  },
+  {
+    "dish_id": "dish_94970bd943f857d5b8c8380f20ee18d3",
+    "recipe_id": "recipe_2ed5fd46169858cb95a95b65169fdc41",
+    "recipe_version": "rv_d5331004cde15e9f72f2d9aa",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/凉拌黄瓜.md",
+    "state": "development",
+    "title": "凉拌黄瓜"
+  },
+  {
+    "dish_id": "dish_f5d5237449365eeabc9b610ec77ec8e6",
+    "recipe_id": "recipe_f2c20da73bf655b1b57d26722b147ce4",
+    "recipe_version": "rv_9fac1c4c5efff19c434e6340",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+    "state": "draft",
+    "title": "包菜炒鸡蛋粉丝"
+  },
+  {
+    "dish_id": "dish_723add5c421a567080505311f9665fba",
+    "recipe_id": "recipe_b3fa24d7549657d18bd71c8f6a2c391d",
+    "recipe_version": "rv_6d6ace6aa8d61de673d0b14a",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/印度土豆花菜.md",
+    "state": "draft",
+    "title": "印度土豆花菜"
+  },
+  {
+    "dish_id": "dish_332d2d89e476527fa2815aa344a6902a",
+    "recipe_id": "recipe_9a039ee338865b6090b56a0be55ed793",
+    "recipe_version": "rv_8a94d463efd6a157098af0b9",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/印度葫芦丸子.md",
+    "state": "draft",
+    "title": "印度葫芦丸子"
+  },
+  {
+    "dish_id": "dish_b343c6c3366254f8b2e637e7070454d8",
+    "recipe_id": "recipe_606c197570065ab3ae1fb85f475cbf99",
+    "recipe_version": "rv_7c1028c08f72c87f9b23da15",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/地三鲜/地三鲜.md",
+    "state": "draft",
+    "title": "地三鲜"
+  },
+  {
+    "dish_id": "dish_44eb7e9d7c335debaa76705c71db9e28",
+    "recipe_id": "recipe_ba4aa7ecb5cc5a8590b1759becc8409f",
+    "recipe_version": "rv_10a67d5009525080e7874344",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/家常日本豆腐.md",
+    "state": "draft",
+    "title": "家常日本豆腐"
+  },
+  {
+    "dish_id": "dish_296b07631e1f56a49a9886c8cc3af3c6",
+    "recipe_id": "recipe_eee16d390a145faca89d4b3f753615a5",
+    "recipe_version": "rv_e471e82414cc1d1feb8308df",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
+    "state": "draft",
+    "title": "小炒藕丁"
+  },
+  {
+    "dish_id": "dish_68073de1d9a8570fbc933cc72612f313",
+    "recipe_id": "recipe_fca97cb3d09c500bbf68391b3bc9e2b7",
+    "recipe_version": "rv_9e0d0e5982ed5b67e51c240d",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+    "state": "draft",
+    "title": "干锅花菜"
+  },
+  {
+    "dish_id": "dish_c8906c14475251dd807b4626df2e3c91",
+    "recipe_id": "recipe_5fa796328b65593f93c7bfda8933c28a",
+    "recipe_version": "rv_f95e5f41774496ff74a7a180",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/手撕包菜/手撕包菜.md",
+    "state": "development",
+    "title": "手撕包菜"
+  },
+  {
+    "dish_id": "dish_1770941ca3ff5b8796d2b0b772ee60bd",
+    "recipe_id": "recipe_cabd995256a55d16be0e896bb641935e",
+    "recipe_version": "rv_3dc8f125ae5eb92a8ebef5d7",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
+    "state": "draft",
+    "title": "拔丝土豆"
+  },
+  {
+    "dish_id": "dish_ec6e3144d58e53b69f7f1adc83a67d4e",
+    "recipe_id": "recipe_7e903011ccc65e849ba8625762ea81fb",
+    "recipe_version": "rv_d00c713bb09c40beb8050c7c",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/松仁玉米.md",
+    "state": "draft",
+    "title": "松仁玉米"
+  },
+  {
+    "dish_id": "dish_988693aa11955fada4cc225306c075ec",
+    "recipe_id": "recipe_71d900ddcea45ef2b9728603501dfde9",
+    "recipe_version": "rv_30acc93f65dd1e227b2b3866",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
+    "state": "draft",
+    "title": "椒盐玉米"
+  },
+  {
+    "dish_id": "dish_8183eb36af2458d8bc52fae35aaf73e9",
+    "recipe_id": "recipe_a3f868895be3588f85d7cef2600ca3a2",
+    "recipe_version": "rv_e41e3d3d3a1ed2e97dfaae13",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+    "state": "draft",
+    "title": "榄菜肉末四季豆"
+  },
+  {
+    "dish_id": "dish_6171194a9c625cfdbcf482c67be6a219",
+    "recipe_id": "recipe_be9be87d8924572787848d94a80b3008",
+    "recipe_version": "rv_92b742cd6d6e6dc842e16920",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/水油焖蔬菜.md",
+    "state": "draft",
+    "title": "水油焖蔬菜"
+  },
+  {
+    "dish_id": "dish_dde5237552bc5a2694cbe9ca8e3a4c80",
+    "recipe_id": "recipe_845752edcffd50a99ca5fa8ef7874b0f",
+    "recipe_version": "rv_d6690051ea6f9b2f326f887a",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/油醋爆蛋.md",
+    "state": "draft",
+    "title": "油醋爆蛋"
+  },
+  {
+    "dish_id": "dish_b99b0dd14de358f49d382aa6834eb200",
+    "recipe_id": "recipe_fa76bddcb31054fbbcb2ee53936c8d2b",
+    "recipe_version": "rv_4f3cd0871c96182d2a30d09e",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+    "state": "draft",
+    "title": "洋葱炒鸡蛋"
+  },
+  {
+    "dish_id": "dish_997b5bfc090f5f688b7877fabec667d3",
+    "recipe_id": "recipe_6f225b65ec9c579d905c930e0283323c",
+    "recipe_version": "rv_b1580008efe7f46352df1e73",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/清炒花菜.md",
+    "state": "draft",
+    "title": "清炒花菜"
+  },
+  {
+    "dish_id": "dish_c7fae4a289615868a1162fedeacc4b35",
+    "recipe_id": "recipe_b8b4e5add1d25ec38cac6c927723b32c",
+    "recipe_version": "rv_1ac534739a53844acc45f477",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/清蒸南瓜.md",
+    "state": "development",
+    "title": "清蒸南瓜"
+  },
+  {
+    "dish_id": "dish_120fe29cfb0c59009564d1cf70ea5858",
+    "recipe_id": "recipe_3a1c3af559475ef7b0c204248c63efbf",
+    "recipe_version": "rv_9c7ec4a01b3e7dca10eb93e2",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/炒土豆和胡萝卜蒸菜.md",
+    "state": "draft",
+    "title": "炒土豆和胡萝卜蒸菜"
+  },
+  {
+    "dish_id": "dish_c5c42a42c8925780bbc4564851de21eb",
+    "recipe_id": "recipe_370d91e2643b5f6083cbf798018877ef",
+    "recipe_version": "rv_2fc34b0e00c7a84a271583a9",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+    "state": "draft",
+    "title": "炒滑蛋"
+  },
+  {
+    "dish_id": "dish_00f4440da6fb5256b8e7f0a5db5f3afd",
+    "recipe_id": "recipe_0da6a13e00415b4cae0fb54e5da21917",
+    "recipe_version": "rv_df3290fc5404208959bd9b28",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/炒茄子.md",
+    "state": "draft",
+    "title": "炒茄子"
+  },
+  {
+    "dish_id": "dish_e8de3728f43054eb87908d863b7d4a5b",
+    "recipe_id": "recipe_e12b29ba4fb85e82a257bfc0b82a7ad9",
+    "recipe_version": "rv_97ce34d3610d652d7e2e11a2",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/炒青菜.md",
+    "state": "development",
+    "title": "炒青菜"
+  },
+  {
+    "dish_id": "dish_a5bdfe0bcee95b6893131122be6523a2",
+    "recipe_id": "recipe_4fbc27b35cce536985ed178f1c15f123",
+    "recipe_version": "rv_1b24992b5b32d94f54193d1b",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/炸洋葱花/炸洋葱花.md",
+    "state": "draft",
+    "title": "炸洋葱花"
+  },
+  {
+    "dish_id": "dish_2bb652366da15cb89583ea75bb5300a4",
+    "recipe_id": "recipe_6964c33b820a58a5b0b234f7fe399631",
+    "recipe_version": "rv_5ff6e3d5ced062908dc9f0fb",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/烤茄子/烤茄子.md",
+    "state": "draft",
+    "title": "烤茄子"
+  },
+  {
+    "dish_id": "dish_e7d59d9d5dd35e22a1cb385f633593cc",
+    "recipe_id": "recipe_e247b63d036f5cfb855e9b0f2bb6d902",
+    "recipe_version": "rv_cf34fcd20040ed3d90b09309",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+    "state": "draft",
+    "title": "白灼菜心"
+  },
+  {
+    "dish_id": "dish_b7f58317f1f855acbaf7b20b9867d572",
+    "recipe_id": "recipe_0fd96d247cbb5e77819ad1e88d30034b",
+    "recipe_version": "rv_87e839479a4246464cd480fe",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/皮蛋豆腐.md",
+    "state": "development",
+    "title": "皮蛋豆腐"
+  },
+  {
+    "dish_id": "dish_4236edfcb2a75b91b40ee4cb6bee02d1",
+    "recipe_id": "recipe_f032e0671a2a5ed9a2f98701652ed482",
+    "recipe_version": "rv_a9fa0c288f57b02500c2295c",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+    "state": "draft",
+    "title": "糖拌西红柿"
+  },
+  {
+    "dish_id": "dish_f24c5331ed995bb685f31701c1eaaa8a",
+    "recipe_id": "recipe_0c233c00ae26573f89b6434834cc575f",
+    "recipe_version": "rv_e697892d6258342f06fed961",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/素炒豆角.md",
+    "state": "draft",
+    "title": "素炒豆角"
+  },
+  {
+    "dish_id": "dish_2b8b2840118a5a99bf816557918d87f1",
+    "recipe_id": "recipe_4b3cd14a477550639fa3afe179b7701a",
+    "recipe_version": "rv_d622ec51f82006e0fb9bf661",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+    "state": "draft",
+    "title": "红烧冬瓜"
+  },
+  {
+    "dish_id": "dish_54433978dc6b5c208cf092d6cb1d7977",
+    "recipe_id": "recipe_d883096f238559dead3b2d84abe7eaca",
+    "recipe_version": "rv_708d1f841c94a621c7870230",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/红烧茄子.md",
+    "state": "draft",
+    "title": "红烧茄子"
+  },
+  {
+    "dish_id": "dish_80955e2891065c4aa4c9940a70eba7fa",
+    "recipe_id": "recipe_a11c9031980855deaf15330bc04758e9",
+    "recipe_version": "rv_f9af697455b8b4283724f6b2",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/脆皮豆腐.md",
+    "state": "draft",
+    "title": "脆皮豆腐"
+  },
+  {
+    "dish_id": "dish_dbc16cfdc09a5eca9c83e11dbef11c07",
+    "recipe_id": "recipe_ab7ea1b667e85f8a87ea48fb040dce55",
+    "recipe_version": "rv_c56b0eec5df0e72b2dd809a2",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
+    "state": "draft",
+    "title": "芹菜拌茶树菇"
+  },
+  {
+    "dish_id": "dish_66be540c0b3f5603b062beab34626a14",
+    "recipe_id": "recipe_99118236c16c52748f7dc4522bcb80a5",
+    "recipe_version": "rv_d5798401d0b65ebd97403dbc",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/茄子炖土豆.md",
+    "state": "draft",
+    "title": "茄子炖土豆"
+  },
+  {
+    "dish_id": "dish_7ee82c486f295af0b5ac26345ef33b00",
+    "recipe_id": "recipe_e0f99007c0ad570c9ff75ad4828b84a8",
+    "recipe_version": "rv_607c3d4d53d114db0e89991d",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+    "state": "draft",
+    "title": "莴笋叶煎饼"
+  },
+  {
+    "dish_id": "dish_c0f434ce115a510b909ccdecc7e08cb7",
+    "recipe_id": "recipe_e672df3c6ada565a982c464cac841c21",
+    "recipe_version": "rv_950032190821d85986268041",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+    "state": "draft",
+    "title": "菠菜炒鸡蛋"
+  },
+  {
+    "dish_id": "dish_504912550a74586f9820867894ca7140",
+    "recipe_id": "recipe_efec3b17a96750fd8f1940fd9d751a06",
+    "recipe_version": "rv_25ced8043c49a09c8ec7623c",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/葱煎豆腐.md",
+    "state": "draft",
+    "title": "葱煎豆腐"
+  },
+  {
+    "dish_id": "dish_2cebf28912585f1992a427aa3b7845a5",
+    "recipe_id": "recipe_f35e13c0c9d05dedb0fd30dc37c56e71",
+    "recipe_version": "rv_b48ba4abda7bf8c17849c7d3",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/蒜蓉炒芹菜/蒜蓉炒芹菜.md",
+    "state": "draft",
+    "title": "蒜蓉炒芹菜"
+  },
+  {
+    "dish_id": "dish_b4221225596f5aa8bebbf657441f9881",
+    "recipe_id": "recipe_8fa4f35552985248b458954a64e99ab0",
+    "recipe_version": "rv_4d2645b4873269a976f30ef3",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+    "state": "draft",
+    "title": "蒜蓉空心菜"
+  },
+  {
+    "dish_id": "dish_8063c80a15d5576d80905d6e6749cdb4",
+    "recipe_id": "recipe_ba01e017e3375dbd961bc515db90bda8",
+    "recipe_version": "rv_01f27b6d1a46240facd296d3",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/蒜蓉西兰花.md",
+    "state": "development",
+    "title": "蒜蓉西兰花"
+  },
+  {
+    "dish_id": "dish_2b16d863f9aa58dd9b36c804f9b00d58",
+    "recipe_id": "recipe_c94465efd40b51b2aff13fca2e0af0ce",
+    "recipe_version": "rv_d65106f19fd7c18649be4a08",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/蒲烧茄子.md",
+    "state": "draft",
+    "title": "蒲烧茄子"
+  },
+  {
+    "dish_id": "dish_9ba802d6a8995af48249ee8da9b34614",
+    "recipe_id": "recipe_22d1d9daeaa654e89c4a42d6703918b2",
+    "recipe_version": "rv_5627487fbf97ace7cc6a821b",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+    "state": "draft",
+    "title": "虎皮青椒"
+  },
+  {
+    "dish_id": "dish_b46e27941d8b56b8a82e395d12e0bce0",
+    "recipe_id": "recipe_06e7792ff6ef5e80afe2200415fe5168",
+    "recipe_version": "rv_629e472c1c45f4b323ed77c5",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
+    "state": "draft",
+    "title": "蚝油三鲜菇"
+  },
+  {
+    "dish_id": "dish_e64e9314afd753e88f22cddd537414d8",
+    "recipe_id": "recipe_edc7356d31a25851a618914e0176e064",
+    "recipe_version": "rv_fab9806ef39b83fefe33d8c9",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/蚝油生菜.md",
+    "state": "draft",
+    "title": "蚝油生菜"
+  },
+  {
+    "dish_id": "dish_0ddbdc32199d57b8ad3192d1b20c2143",
+    "recipe_id": "recipe_10816142bd1952fe9a6f678dcfec17c6",
+    "recipe_version": "rv_39325dd545404e1278fe5581",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/西红柿炒鸡蛋.md",
+    "state": "development",
+    "title": "西红柿炒鸡蛋"
+  },
+  {
+    "dish_id": "dish_f1abe5e5480b5fbfb752050cff2f3d5c",
+    "recipe_id": "recipe_11580334faad55668057fca1a0165856",
+    "recipe_version": "rv_6c70dc1bfd71efef35aaf645",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+    "state": "draft",
+    "title": "西红柿豆腐汤羹"
+  },
+  {
+    "dish_id": "dish_bccd3b7725605723b80f74faec4ca127",
+    "recipe_id": "recipe_e0ed01dc39a158d0a5ff1692b4d82809",
+    "recipe_version": "rv_78efbe822852c8b307fc93f1",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+    "state": "draft",
+    "title": "西葫芦炒鸡蛋"
+  },
+  {
+    "dish_id": "dish_906a16d24e505d50b818243e4b796b2c",
+    "recipe_id": "recipe_b48852d6d52a5239a58b60a74b245306",
+    "recipe_version": "rv_37042d3a9023c0c9e8bd6a8c",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
+    "state": "draft",
+    "title": "话梅煮毛豆"
+  },
+  {
+    "dish_id": "dish_d974148547c95dd0adf4cfc6a7fc26b1",
+    "recipe_id": "recipe_78886b4e2b145b5eae9c816f736f60c1",
+    "recipe_version": "rv_ea49e9d0aaa664d9eb0168a5",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/酸辣土豆丝.md",
+    "state": "development",
+    "title": "酸辣土豆丝"
+  },
+  {
+    "dish_id": "dish_c9b931b276a453ccab4d077274b2aa07",
+    "recipe_id": "recipe_d4add17cf6985af5928ce0cb8f8fa00a",
+    "recipe_version": "rv_8e53f0f9e1925556c9f22667",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/金针菇日本豆腐煲.md",
+    "state": "draft",
+    "title": "金针菇日本豆腐煲"
+  },
+  {
+    "dish_id": "dish_392a81a7e7145ecb877d9cb9df284752",
+    "recipe_id": "recipe_be5429c9f506542fbda9d97d427bfeb5",
+    "recipe_version": "rv_21d3ade73c8282df254092a5",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/金钱蛋.md",
+    "state": "draft",
+    "title": "金钱蛋"
+  },
+  {
+    "dish_id": "dish_634c913dc476503ba32128f075cfa9eb",
+    "recipe_id": "recipe_b18b7bbb1d415899ad967405c366754e",
+    "recipe_version": "rv_732cd2a466cd48d06d805189",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/陕北熬豆角.md",
+    "state": "draft",
+    "title": "陕北熬豆角"
+  },
+  {
+    "dish_id": "dish_d33e2b9b35df5a5bb2468cebf16376e3",
+    "recipe_id": "recipe_e4a5365e1d605053ac646b340790701d",
+    "recipe_version": "rv_cfda764ef18e82fae129be6e",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/雷椒皮蛋.md",
+    "state": "draft",
+    "title": "雷椒皮蛋"
+  },
+  {
+    "dish_id": "dish_fbc2e0ae928e59a18fc88c1cde0bcc24",
+    "recipe_id": "recipe_474636a17ac45b9ba405d5c0159c62af",
+    "recipe_version": "rv_82ac213d638a19603bc47686",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md",
+    "state": "draft",
+    "title": "韭菜炒蛋"
+  },
+  {
+    "dish_id": "dish_8ad68f9e459e56e587cb57bb7c104b5f",
+    "recipe_id": "recipe_ead76de34ef6547295298f4b85fd4ad8",
+    "recipe_version": "rv_8c2012360340ded4be67fe5f",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+    "state": "draft",
+    "title": "鸡蛋火腿炒黄瓜"
+  },
+  {
+    "dish_id": "dish_84b80098725f5e0db0716f129f7c8841",
+    "recipe_id": "recipe_b62366117b7f5d7cac89872d27e80903",
+    "recipe_version": "rv_47ff85b426126ed9473d0ace",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+    "state": "development",
+    "title": "微波炉鸡蛋羹"
+  },
+  {
+    "dish_id": "dish_f081c7810f7a5760abdf3b6667020739",
+    "recipe_id": "recipe_926160ac11655c968f92008559b08e2e",
+    "recipe_version": "rv_baa380fc4695e33ad52e7133",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+    "state": "draft",
+    "title": "蒸箱鸡蛋羹"
+  },
+  {
+    "dish_id": "dish_57678a9950e75740a01dece151bc181a",
+    "recipe_id": "recipe_efd42262736c5ddbb62b9a8927f7fad6",
+    "recipe_version": "rv_ad8461566a42ac00a9839536",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+    "state": "draft",
+    "title": "鸡蛋羹"
+  },
+  {
+    "dish_id": "dish_a911a68800255c839d44710ebcdbafeb",
+    "recipe_id": "recipe_c1ce498404195c68a2308d34cd93b01a",
+    "recipe_version": "rv_aef82982b0af8cbed50d2c08",
+    "source_category": "vegetable_dish",
+    "source_path": "dishes/vegetable_dish/鸡蛋花/鸡蛋花.md",
+    "state": "draft",
+    "title": "鸡蛋花"
+  }
+]
